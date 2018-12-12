@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ripple_bg.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\drawable-v21\\ripple_bg.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\bg_folder_item.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.6.1\\res\\drawable-v21\\bg_folder_item.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\spot.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.github.d-max\\spots-dialog\\0.4\\res\\drawable-v21\\spot.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\bg_folder_item.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.6.1\\res\\drawable-v21\\bg_folder_item.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ripple_bg.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\drawable-v21\\ripple_bg.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\spot.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.github.d-max\\spots-dialog\\0.4\\res\\drawable-v21\\spot.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-v21\\design_password_eye.xml"
+    }
+]

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:myImageView="http://schemas.android.com/apk/res-auto"
+    android:background="@color/transparent_black"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <com.dikai.chenghunjiclient.view.MyImageView
+            android:layout_centerInParent="true"
+            android:layout_margin="20dp"
+            android:id="@+id/qrcode"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@color/gray_background"
+            myImageView:aspect_ratio="1"/>
+        <ImageView
+            android:id="@+id/close"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="30dp"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/white_close"/>
+    </RelativeLayout>
+</RelativeLayout>

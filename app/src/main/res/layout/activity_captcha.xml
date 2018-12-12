@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/activity_captcha"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context="com.dikai.chenghunjiclient.activity.newregister.CaptchaActivity">
+    <View
+        android:id="@+id/top_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"/>
+    <ImageView
+        android:id="@+id/back"
+        android:layout_marginTop="10dp"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:padding="10dp"
+        android:src="@mipmap/ic_gray_back"/>
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+        <View
+            android:layout_width="4dp"
+            android:layout_height="30dp"
+            android:background="@color/red_new"/>
+        <TextView
+            android:id="@+id/title"
+            android:layout_marginStart="10dp"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="28sp"
+            android:text="输入短信验证码"/>
+    </LinearLayout>
+    <TextView
+        android:id="@+id/info"
+        android:layout_marginBottom="20dp"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/gray_text"
+        android:textSize="13sp"
+        android:text="验证码已发送至+86 xxxxxxxxxxx"/>
+
+    <com.dikai.chenghunjiclient.codeinput.CodeInput
+        android:id="@+id/codeInput"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:underline_color="@color/gray_line"
+        app:underline_selected_color="@color/red_new"
+        app:text_color="@color/black"
+        app:hint_color="@color/gray_text"
+        app:hint_text="验证码"
+        app:codes="4"/>
+    <TextView
+        android:clickable="true"
+        android:id="@+id/resend"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/gray_btn"
+        android:textSize="13sp"
+        android:text="60s 后可重新发送"/>
+
+</LinearLayout>

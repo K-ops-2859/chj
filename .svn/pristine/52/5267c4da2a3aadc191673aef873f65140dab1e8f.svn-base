@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_verify"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context="com.dikai.chenghunjiclient.activity.register.VerifyActivity">
+
+    <View
+        android:id="@+id/top_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp" />
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/activity_verify_back"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:layout_marginEnd="20dp"
+                android:background="@drawable/button_item_click"
+                android:padding="10dp"
+                android:scaleType="centerInside"
+                android:src="@mipmap/ic_app_gray_back" />
+
+            <TextView
+                android:id="@+id/activity_create_title"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="身份验证"
+                android:textColor="@color/main_text"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/activity_verify_next"
+                android:layout_width="60dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/button_item_click"
+                android:clickable="true"
+                android:gravity="center"
+                android:text="下一步"
+                android:textColor="@color/green"
+                android:textSize="14sp" />
+        </LinearLayout>
+    </android.support.design.widget.AppBarLayout>
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fadeScrollbars="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/activity_verify_first_photo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp"
+                    android:text="上传身份证（选填）"
+                    android:textColor="@color/black_text"
+                    android:textSize="16sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/iv_identity_front"
+                        android:layout_width="130dp"
+                        android:layout_height="130dp"
+                        android:src="@mipmap/ic_add_front" />
+
+                    <View
+                        android:layout_width="0dp"
+                        android:layout_height="1dp"
+                        android:layout_weight="1" />
+
+                    <ImageView
+                        android:id="@+id/iv_identity_back"
+                        android:layout_width="130dp"
+                        android:layout_height="130dp"
+                        android:src="@mipmap/ic_add_back" />
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/iv_identity_hand"
+                    android:layout_width="130dp"
+                    android:layout_height="130dp"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="20dp"
+                    android:src="@mipmap/ic_add_hand" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/activity_verify_second_photo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/activity_verify_second_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="20dp"
+                    android:text="上传营业执照"
+                    android:textColor="@color/black_text"
+                    android:textSize="16sp" />
+
+                <ImageView
+                    android:id="@+id/iv_business_front"
+                    android:layout_width="130dp"
+                    android:layout_height="130dp"
+                    android:layout_margin="20dp"
+                    android:src="@mipmap/ic_add_business" />
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+
+</LinearLayout>

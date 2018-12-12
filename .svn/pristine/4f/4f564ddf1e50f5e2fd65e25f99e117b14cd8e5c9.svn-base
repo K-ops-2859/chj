@@ -1,0 +1,2546 @@
+[
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_image_list_item.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.6.1\\res\\layout\\adapter_image_list_item.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_view.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.miguelcatalan\\materialsearchview\\1.4.0\\res\\layout\\search_view.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_convertgift.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_convertgift.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wedding_konw_details.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wedding_konw_details.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_team_intro.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_team_intro.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_hotel.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_hotel.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wedding_project_profession.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\wedding_project_profession.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_progress_dialog.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.shuyu\\gsyVideoPlayer-java\\2.0.8\\res\\layout\\video_progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_new_plan_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_new_plan_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_preview.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.6.1\\res\\layout\\activity_image_preview.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_get_my_prize.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_get_my_prize.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\suggest_item.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.miguelcatalan\\materialsearchview\\1.4.0\\res\\layout\\suggest_item.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_me.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_me.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_hot_project_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_hot_project_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_car_type.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_car_type.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_like_details.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_like_details.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\we_date_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\we_date_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_photo.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\we_led_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\we_led_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_video_normal.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\sample_video_normal.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_driver_new_add.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_driver_new_add.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_viewpager.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\convenientbanner\\2.0.5\\res\\layout\\include_viewpager.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wed_project.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wed_project.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_hotel_room_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_hotel_room_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_create_team.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_create_team.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_guarantee_other.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_guarantee_other.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_day.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\custom_day.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_edit_room_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_edit_room_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rule.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_rule.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_invite_wedding.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_invite_wedding.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_assign_driver.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_assign_driver.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_hotel_room.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_hotel_room.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reset_pwd.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_reset_pwd.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wedding_konw_list.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wedding_konw_list.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hotel_info.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_hotel_info.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_clear_list_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_clear_list_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_header.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.jcodecraeer\\xrecyclerview\\1.5.2\\res\\layout\\listview_header.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_car_type.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_car_type.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_header.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.jcodecraeer\\xrecyclerview\\1.5.2\\res\\layout\\listview_header.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_guarantee_duty.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_guarantee_duty.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_assign_car.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_assign_car.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_assign_driver_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_assign_driver_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_zixun_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_zixun_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wedding_project_music.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\wedding_project_music.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_news_pwd.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_set_news_pwd.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_discover.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_discover.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_team.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_my_team.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_identity.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_select_identity.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\we_date_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\we_date_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_car.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_add_car.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_corp_info.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_corp_info.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_layout_normal.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.shuyu\\gsyVideoPlayer-java\\2.0.8\\res\\layout\\video_layout_normal.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_dynamic.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_my_dynamic.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_navigation_bar_container.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.ashokvarma.android\\bottom-navigation-bar\\1.3.1\\res\\layout\\bottom_navigation_bar_container.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wedding_project_profession.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\wedding_project_profession.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_search_car_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_search_car_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_invite_download.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_invite_download.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my_invite.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_my_invite.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_ident.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_select_ident.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_news_plan.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_news_plan.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_news_plan_head.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_news_plan_head.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_info.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_user_info.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_message_filtrate.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\pop_message_filtrate.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_man_project_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_man_project_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_assign_driver_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_assign_driver_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_sup_iden_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_sup_iden_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_search_car_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_search_car_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pro_question.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_pro_question.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timepicker_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.jzxiang.pickerview\\TimePickerDialog\\1.0.1\\res\\layout\\timepicker_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_news.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_news.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_flow_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_flow_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_driver_plan.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_driver_plan.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_news_plan_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_news_plan_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_store.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_store.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_store_sup.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_store_sup.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_day_focus.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\custom_day_focus.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fixed_bottom_navigation_item.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.ashokvarma.android\\bottom-navigation-bar\\1.3.1\\res\\layout\\fixed_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_room.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_add_room.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_day_focus.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\custom_day_focus.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_guarantee_duty.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_guarantee_duty.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\we_led_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\we_led_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_man_plan_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_man_plan_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_news.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_news.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shifting_bottom_navigation_item.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.ashokvarma.android\\bottom-navigation-bar\\1.3.1\\res\\layout\\shifting_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wedding_we_budget.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\wedding_we_budget.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_upload_car_pic.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_upload_car_pic.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_zixun_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_zixun_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timepicker_toolbar.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.jzxiang.pickerview\\TimePickerDialog\\1.0.1\\res\\layout\\timepicker_toolbar.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shipping_address.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_shipping_address.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_project_list_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_project_list_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_publish_dynamic.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_publish_dynamic.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_driver.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_driver.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_verify.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_verify.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_flow_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_flow_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_we.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_we.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_verify.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_verify.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_attention.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_attention.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_folder_list_item.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.6.1\\res\\layout\\adapter_folder_list_item.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_wed_apply.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_my_wed_apply.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_room.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_edit_room.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_discover.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_discover.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_invite1.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_invite1.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_preview.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.6.1\\res\\layout\\activity_image_preview.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_driver.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_driver.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hotel_edit_info.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_hotel_edit_info.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_rule.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_rule.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_wedding.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_wedding.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_discover.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_discover.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_store.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_store.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bean_dynam.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_bean_dynam.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bean_dynam.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_bean_dynam.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_banner_info.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_banner_info.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_wed_apply.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_my_wed_apply.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_layout_normal.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.shuyu\\gsyVideoPlayer-java\\2.0.8\\res\\layout\\video_layout_normal.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_select_identity_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_select_identity_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wedding_pay.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wedding_pay.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_car_info.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_car_info.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_folder.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.6.1\\res\\layout\\pop_folder.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shifting_bottom_navigation_item.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.ashokvarma.android\\bottom-navigation-bar\\1.3.1\\res\\layout\\shifting_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_sup.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_home_sup.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_hotel.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_hotel.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_clear.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_clear.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pro_question.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_pro_question.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_news_plan_head.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_news_plan_head.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_grid.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.6.1\\res\\layout\\activity_image_grid.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_project.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_new_project.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_invite_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_my_invite_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fixed_bottom_navigation_item.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.ashokvarma.android\\bottom-navigation-bar\\1.3.1\\res\\layout\\fixed_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sup_edit_info.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_sup_edit_info.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_viewpager.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\convenientbanner\\2.0.5\\res\\layout\\include_viewpager.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_team_intro.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_team_intro.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_store_head.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_store_head.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reset_pwd.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_reset_pwd.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_message.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_message.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dynamic.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_dynamic.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_corp_info.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_corp_info.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_we_quwstion.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_we_quwstion.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my_invite.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_my_invite.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_attention.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_attention.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_wedding_konw.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_wedding_konw.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_phone_number_invite.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_phone_number_invite.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hotel_info.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_hotel_info.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_driver_plan.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_driver_plan.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_hotel_room.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_hotel_room.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_banner.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_banner.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_guarantee_service.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_guarantee_service.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_publish_circle_list.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_publish_circle_list.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_phonef.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_change_phonef.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_load_recyclerview_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\my_load_recyclerview_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_phone_invite.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_phone_invite.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_assign_car.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_assign_car.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_like_person.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_like_person.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_info.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_user_info.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wed_mark.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wed_mark.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\we_hotel_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\we_hotel_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_bezier.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.lcodecorex\\tkrefreshlayout\\1.0.7\\res\\layout\\view_bezier.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_discover_dialog.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\dialog_discover_dialog.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_sup.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_search_sup.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_identity.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_select_identity.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_calendar_plan_two.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_calendar_plan_two.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wedding_pay.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wedding_pay.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_remark.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_remark.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_my.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wedding_assure.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wedding_assure.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_banner_info.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_banner_info.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_sinaheader.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.lcodecorex\\tkrefreshlayout\\1.0.7\\res\\layout\\view_sinaheader.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_brand.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_add_brand.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_dialog_msg_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_dialog_msg_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_case_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_my_case_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_phonef.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_change_phonef.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_store_main_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_store_main_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_sinaheader.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.lcodecorex\\tkrefreshlayout\\1.0.7\\res\\layout\\view_sinaheader.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_city_select_list.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_city_select_list.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_brand.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_add_brand.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wedding_know.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wedding_know.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_record.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\we_hotel_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\we_hotel_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_folder_list_item.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.6.1\\res\\layout\\adapter_folder_list_item.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_camera_item.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.6.1\\res\\layout\\adapter_camera_item.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_main_head_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_main_head_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_banner.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_banner.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_plan_info.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_plan_info.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_select_driver_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_select_driver_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_like_person.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_like_person.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_identity.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_create_identity.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_project.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_new_project.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_question_select.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_question_select.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_wedding_konw.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_wedding_konw.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_collect_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_my_collect_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_plan_info.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_plan_info.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_hotel_info.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_hotel_info.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_invite_wedding.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_invite_wedding.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_team.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_create_team.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_assign_driver.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_assign_driver.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wed_doc.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wed_doc.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_room_photo_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_room_photo_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_layout_custom.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.shuyu\\gsyVideoPlayer-java\\2.0.8\\res\\layout\\video_layout_custom.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_like_person.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_like_person.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_team.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_my_team.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wed_hotel.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wed_hotel.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_news.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_create_news.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_sup.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_search_sup.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timepicker_toolbar.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.jzxiang.pickerview\\TimePickerDialog\\1.0.1\\res\\layout\\timepicker_toolbar.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cars.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_cars.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_store_head.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_store_head.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gift_list.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_gift_list.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wed_mark.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wed_mark.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_get_prize.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_get_prize.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wed_case_info.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wed_case_info.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_invite1.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_invite1.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wed_man_info.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wed_man_info.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_invite_download.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_invite_download.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_car_list_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_car_list_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_pro_list.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_web_pro_list.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_man_plan_car.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_man_plan_car.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_hun_qing.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_hun_qing.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_new_add.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_new_add.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timepicker_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.jzxiang.pickerview\\TimePickerDialog\\1.0.1\\res\\layout\\timepicker_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_video_normal.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\sample_video_normal.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_driver_new_add.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_driver_new_add.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_invite_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_my_invite_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wed_project.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wed_project.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wedding_assure.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wedding_assure.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_guarantee_weiyue.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_guarantee_weiyue.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_team_car.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_team_car.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_photo.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_photo.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_call_service.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\dialog_call_service.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_driver_calender.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_driver_calender.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_publish_circle_list.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_publish_circle_list.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_car_info.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_car_info.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_invite_download.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_invite_download.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_base.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.flyco.dialog\\FlycoDialog_Lib\\1.3.2\\res\\layout\\popup_base.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_select_identity_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_select_identity_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_car.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_my_car.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_invite_list_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_invite_list_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guarantee.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_guarantee.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_my.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wedding_konw_list.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wedding_konw_list.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_bubble.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.flyco.dialog\\FlycoDialog_Lib\\1.3.2\\res\\layout\\popup_bubble.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_pro.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_web_pro.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dynamic.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_dynamic.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wedding_project_music.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\wedding_project_music.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_project_info.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_project_info.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_get_prize_success.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_get_prize_success.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_wedding.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_wedding.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_bezier.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.lcodecorex\\tkrefreshlayout\\1.0.7\\res\\layout\\view_bezier.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_plan_info.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_plan_info.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_calendar_plan_one.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_calendar_plan_one.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_get_prize.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_get_prize.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_message.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_message.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_prize.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_prize.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_invite_wed_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_invite_wed_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wedding_project_man_info.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\wedding_project_man_info.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_sign_bill.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_sign_bill.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_plan_info.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_plan_info.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wedding_we_budget.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\wedding_we_budget.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_invite_prize.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_invite_prize.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_team_car.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_team_car.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_rule_parent.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_rule_parent.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_room.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_add_room.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_invite_wed.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_invite_wed.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_collect.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_my_collect.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message_list.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_message_list.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_case.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_my_case.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_test.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_test.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_store_main_head_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_store_main_head_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_new_store_sup_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_new_store_sup_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gift_list.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_gift_list.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_head.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.jcodecraeer\\xrecyclerview\\1.5.2\\res\\layout\\pull_to_refresh_head.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_navigation_bar_container.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.ashokvarma.android\\bottom-navigation-bar\\1.3.1\\res\\layout\\bottom_navigation_bar_container.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_store_sup.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_store_sup.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_rule.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_rule.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_team_car_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_team_car_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_home_sup_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_home_sup_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_plan_car_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_plan_car_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_plan.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_add_plan.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_message_filtrate.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\pop_message_filtrate.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_man_plan.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_man_plan.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_dynamic_reply_footer.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_dynamic_reply_footer.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_sup_iden_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_sup_iden_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_project_list_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_project_list_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_hun_che.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_hun_che.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_news_plan.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_news_plan.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_upload_car_pic.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_upload_car_pic.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clear.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_clear.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_all_car.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_all_car.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_main_head_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_main_head_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_team_car_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_team_car_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_car.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_search_car.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_news_plan.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_news_plan.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_video_land.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\sample_video_land.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_driver_plan.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_driver_plan.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_invite_download.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_invite_download.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_progress_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\dialog_progress_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_invite_apply.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_invite_apply.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_signbillwelfare.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_signbillwelfare.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_store_sup.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_store_sup.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_guarantee_relieve.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_guarantee_relieve.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_cbview_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_cbview_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_invite_prize.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_invite_prize.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_layout_standard.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.shuyu\\gsyVideoPlayer-java\\2.0.8\\res\\layout\\video_layout_standard.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_man_project_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_man_project_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_store_sup.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_store_sup.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_invite_wed.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_invite_wed.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\we_info_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\we_info_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_room_photo.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_room_photo.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_select_driver_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_select_driver_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_man_plan.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_man_plan.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_flow.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_flow.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_invite_header.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_invite_header.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wedding_know.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wedding_know.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\suggest_item.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.miguelcatalan\\materialsearchview\\1.4.0\\res\\layout\\suggest_item.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_hun_qing.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_hun_qing.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_cbview_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_cbview_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wed_doc.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wed_doc.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register_car.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_register_car.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_mark.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_add_mark.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wed_case_info.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wed_case_info.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_video_land.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\sample_video_land.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_home_sup_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_home_sup_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_test.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_test.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_dynamic_like.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_dynamic_like.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clear.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_clear.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_room_photo_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_room_photo_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_dynamic_reply.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_dynamic_reply.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_publish_dynamic.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_publish_dynamic.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_we.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_we.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_message_screen.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_message_screen.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wedding_project_man_info.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\wedding_project_man_info.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rule1.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_rule1.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_bubble.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.flyco.dialog\\FlycoDialog_Lib\\1.3.2\\res\\layout\\popup_bubble.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_crop.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.6.1\\res\\layout\\activity_image_crop.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\we_info_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\we_info_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_assign_car_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_assign_car_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wed_rule.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wed_rule.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_plan.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_plan.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_calendar.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_calendar.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_plan.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_add_plan.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_discover.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_discover.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_get_my_prize_header.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_get_my_prize_header.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_invite.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_invite.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_dialog_msg_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_dialog_msg_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_get_my_prize.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_get_my_prize.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_guarantee_relieve.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_guarantee_relieve.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_progress_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\dialog_progress_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_head.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.jcodecraeer\\xrecyclerview\\1.5.2\\res\\layout\\pull_to_refresh_head.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_camera_item.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.6.1\\res\\layout\\adapter_camera_item.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_make_project.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_make_project.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guarantee.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_guarantee.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_prize.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_prize.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_wedding_konw_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_wedding_konw_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_convertgift.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_convertgift.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_brightness.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.shuyu\\gsyVideoPlayer-java\\2.0.8\\res\\layout\\video_brightness.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_invite.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_invite.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_corp_info.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_corp_info.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_corp_info.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_corp_info.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_new_plan_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_new_plan_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.jcodecraeer\\xrecyclerview\\1.5.2\\res\\layout\\listview_footer.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_dynamic.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_dynamic.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\new_store_head_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\new_store_head_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_case_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_my_case_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_sign_bill.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_sign_bill.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_guarantee_weiyue.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_guarantee_weiyue.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_base.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.flyco.dialog\\FlycoDialog_Lib\\1.3.2\\res\\layout\\popup_base.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_case.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_my_case.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.github.d-max\\spots-dialog\\0.4\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_car.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_my_car.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_select_city.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_select_city.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_man_plan_car.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_man_plan_car.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_question_select.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_question_select.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_create_team.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_create_team.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_guarantee_other.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_guarantee_other.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_message.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_message.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_volume_dialog.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.shuyu\\gsyVideoPlayer-java\\2.0.8\\res\\layout\\video_volume_dialog.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_project_info.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_project_info.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_project_store_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_project_store_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_room_photo.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_room_photo.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_guarantee_head.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_guarantee_head.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_pro.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_web_pro.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_call_service.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\dialog_call_service.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_message_details.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_message_details.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_car_list_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_car_list_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_discover.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_discover.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_mark.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_add_mark.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_all_car.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_all_car.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register_car.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_register_car.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cars.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_cars.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_plan.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_plan.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_select_question_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_select_question_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wed_rule.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wed_rule.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wed_hotel.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wed_hotel.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_car.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_search_car.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_dynamic_reply_footer.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_dynamic_reply_footer.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_phone_invite.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_phone_invite.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_dynamic_comment.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_dynamic_comment.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_calendar.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_calendar.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_day.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\custom_day.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_store_main_head_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_store_main_head_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_project_store_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_project_store_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message_list.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_message_list.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timepicker_line.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.jzxiang.pickerview\\TimePickerDialog\\1.0.1\\res\\layout\\timepicker_line.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_ident.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_select_ident.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\we_code_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\we_code_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_new_store_sup_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_new_store_sup_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_car.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_car.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_like_person.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_like_person.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_top_bar.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.6.1\\res\\layout\\include_top_bar.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_news_plan_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_news_plan_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_layout_standard.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.shuyu\\gsyVideoPlayer-java\\2.0.8\\res\\layout\\video_layout_standard.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_guarantee_service.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_guarantee_service.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_record.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_invite.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_invite.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_man_plan_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_man_plan_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_invite_apply.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_invite_apply.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_guarantee_pay.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_guarantee_pay.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_clear.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_clear.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_free_wed.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_free_wed.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hotel_edit_info.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_hotel_edit_info.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_guarantee_pay.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_guarantee_pay.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sup_edit_info.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_sup_edit_info.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shipping_address.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_shipping_address.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_hun_che.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_hun_che.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_photo.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_photo.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_guarantee_info.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_guarantee_info.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_driver_calender.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_driver_calender.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_remark.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_remark.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_news_pwd.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_set_news_pwd.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_city.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_select_city.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_dynamic_reply.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_dynamic_reply.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_rule_parent.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_rule_parent.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_collect_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_my_collect_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_clear_list_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_clear_list_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_wedding_konw_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_wedding_konw_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_driver_plan.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_driver_plan.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_phone_invite.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_phone_invite.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_free_wed.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_free_wed.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_view.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.miguelcatalan\\materialsearchview\\1.4.0\\res\\layout\\search_view.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_phone_number_invite.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_phone_number_invite.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\group_item.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\group_item.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_car.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_add_car.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_new_store.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_new_store.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_city.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_select_city.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_guarantee_info.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_guarantee_info.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_like_details.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_like_details.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_plan_car_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_plan_car_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_phone.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_new_phone.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_top_bar.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.6.1\\res\\layout\\include_top_bar.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_invite_list_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_invite_list_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_new_add.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_new_add.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_rule_child.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_rule_child.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wed_case.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wed_case.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_man.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_man.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_message_screen.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_message_screen.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_we_quwstion.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_we_quwstion.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_signbillwelfare.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_signbillwelfare.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_pro_list.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_web_pro_list.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_volume_dialog.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.shuyu\\gsyVideoPlayer-java\\2.0.8\\res\\layout\\video_volume_dialog.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_folder.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.6.1\\res\\layout\\pop_folder.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_sup.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_home_sup.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_collect.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_my_collect.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.jcodecraeer\\xrecyclerview\\1.5.2\\res\\layout\\listview_footer.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_image_list_item.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.6.1\\res\\layout\\adapter_image_list_item.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_phone_invite.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_phone_invite.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_room.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_edit_room.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_grid.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.6.1\\res\\layout\\activity_image_grid.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_load_recyclerview_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\my_load_recyclerview_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_discover_dialog.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\dialog_discover_dialog.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_hot_project_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_hot_project_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_send_code.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_send_code.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_send_code.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_send_code.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\new_store_head_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\new_store_head_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_team.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_create_team.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_message.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_message.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_discover.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_discover.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_flow.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_flow.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_assign_car_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_assign_car_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rule1.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_rule1.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_calendar_plan_two.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_calendar_plan_two.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rule.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_rule.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_dynamic_comment.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_dynamic_comment.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wed_man_info.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wed_man_info.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_identity.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_create_identity.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_calendar_plan_one.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_calendar_plan_one.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_select_city.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_select_city.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_store_main_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_store_main_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\we_code_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\we_code_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_man.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_man.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_guarantee_head.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_guarantee_head.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.github.d-max\\spots-dialog\\0.4\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wedding_konw_details.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wedding_konw_details.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_dynamic_like.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_dynamic_like.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_dynamic.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_dynamic.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_news.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_create_news.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_dynamic.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_my_dynamic.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_make_project.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_make_project.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_crop.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.6.1\\res\\layout\\activity_image_crop.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_layout_custom.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.shuyu\\gsyVideoPlayer-java\\2.0.8\\res\\layout\\video_layout_custom.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_me.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_me.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_hotel_room_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_hotel_room_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_message_details.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_message_details.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_new_store.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_new_store.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_select_question_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_select_question_layout.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_car.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_car.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\group_item.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\group_item.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_photo.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_get_prize_success.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_get_prize_success.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_hotel_info.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\fragment_hotel_info.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_get_my_prize_header.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_get_my_prize_header.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wed_case.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_wed_case.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timepicker_line.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.jzxiang.pickerview\\TimePickerDialog\\1.0.1\\res\\layout\\timepicker_line.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_edit_room_layout.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_edit_room_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_invite_header.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_invite_header.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_rule_child.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_rule_child.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_phone.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_new_phone.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_progress_dialog.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.shuyu\\gsyVideoPlayer-java\\2.0.8\\res\\layout\\video_progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_invite.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\adapter_invite.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_news_plan.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\activity_news_plan.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_invite_wed_layout.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_invite_wed_layout.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_city_select_list.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\layout\\item_city_select_list.xml"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_brightness.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.shuyu\\gsyVideoPlayer-java\\2.0.8\\res\\layout\\video_brightness.xml"
+    }
+]

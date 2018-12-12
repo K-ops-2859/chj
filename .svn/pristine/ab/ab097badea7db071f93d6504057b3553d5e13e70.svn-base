@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dikai.chenghunjiclient"
+    android:versionCode="31"
+    android:versionName="1.2.84" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- 用于访问网络 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 用于读取手机存储 -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!-- 用于写入手机存储 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <!-- 蓝牙分享所需的权限 -->
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <!-- 腾讯Bugly所需权限 -->
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" /> <!-- 在SDCard中创建与删除文件权限 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" /> <!-- 相机权限 -->
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        name="com.dikai.chenghunjiclient.BaseApplication"
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.dikai.chenghunjiclient.MainActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.dikai.chenghunjiclient.WelcomeActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- shareSDK相关 -->
+        <activity
+            android:name="com.mob.tools.MobUIShell"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+
+            <!-- 调用新浪原生SDK，需要注册的回调activity -->
+            <intent-filter>
+                <action android:name="com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <!-- 集成line客户端登录授权，需要添如下格式的过滤器 -->
+            <intent-filter>
+                <data android:scheme="line.1477692153" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="cn.sharesdk.tencent.qq.ReceiveActivity"
+            android:launchMode="singleTask"
+            android:noHistory="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="tencent1106387269" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.dikai.chenghunjiclient.wxapi.WXEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <!-- 填写您从Mob开发者后台中得到的Appkey和AppSecret -->
+        <meta-data
+            android:name="Mob-AppKey"
+            android:value="21fa672b0c5ff" />
+        <meta-data
+            android:name="Mob-AppSecret"
+            android:value="7aaf1b71f2dbc94fbf02ffd3acb63371" />
+
+        <!-- shareSDK相关 -->
+
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.store.CorpInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.store.ProjectInfoActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.store.HotelInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.store.RoomPhotoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.citypicker.SelectCityActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.plan.PlanInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.plan.RemarkActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.plan.DriverPlanActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.register.SelectIdentityActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.register.LoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.register.SendCodeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.register.CreateIdentityActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.register.SelectIdentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.register.VerifyActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.register.AllCarActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.register.AddBrandActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.register.AddCarActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.register.CarTypeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.register.RegisterCarActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.register.ResetPwdActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.store.CarInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.me.SettingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.me.ClearActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.me.NewProjectActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.me.UploadCarPicActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.me.MyCarActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.me.MyTeamActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.me.EditRoomActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.me.AddRoomActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.me.MyCollectActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.me.MyCaseActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.me.SupEditInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.me.UserInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.me.HotelEditInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.me.NewPhoneCodeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.me.NewPhoneActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.me.CreateTeamActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.me.SearchCarActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.register.CreateNewsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.register.SetNewsPwdActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.plan.NewsPlanActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.plan.AddPlanActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.plan.AddMarkActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.plan.TeamCarActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.plan.AssignCarActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.dikai.chenghunjiclient.activity.store.SearchSupActivity" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.me.InviteActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.dikai.chenghunjiclient.activity.PhotoActivity" />
+        <activity android:name="com.dikai.chenghunjiclient.activity.wedding.MakeProjectActivity" />
+        <activity android:name="com.dikai.chenghunjiclient.activity.wedding.WedProjectActivity" />
+        <activity android:name="com.dikai.chenghunjiclient.activity.wedding.WedManInfoActivity" />
+        <activity android:name="com.dikai.chenghunjiclient.activity.wedding.ProQuestionActivity" />
+        <activity android:name="com.dikai.chenghunjiclient.activity.wedding.QuestionSelectActivity" />
+        <activity android:name="com.dikai.chenghunjiclient.activity.wedding.WedHotelActivity" />
+        <activity android:name="com.dikai.chenghunjiclient.activity.wedding.WeQuwstionActivity" />
+        <activity android:name="com.dikai.chenghunjiclient.activity.wedding.WedCaseActivity" />
+        <activity android:name="com.dikai.chenghunjiclient.activity.wedding.WedCaseInfoActivity" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.wedding.PhoneInviteActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.wedding.PhoneNumberInviteActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.wedding.InviteWeddingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.wedding.InviteDownLoadActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.wedding.ConvertGiftActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.wedding.InviteActivity1"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.wedding.SignBillWelfareActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.wedding.ShippingAddressActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.wedding.GetPrizeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.wedding.PrizeDetailsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.wedding.GetPrizeSuccessActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.wedding.RuleActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.wedding.RuleActivity1"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.dikai.chenghunjiclient.activity.wedding.GuaranteeActivity" >
+        </activity>
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.wedding.WeddingPayActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.wedding.WeddingAssureActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.wedding.WeddingKnowActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.wedding.WeddingKnowListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.wedding.WeddingKnowDetailsActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.dikai.chenghunjiclient.activity.wedding.WedDocActivity" >
+        </activity>
+        <activity android:name="com.dikai.chenghunjiclient.activity.store.HomeSupActivity" >
+        </activity>
+        <activity android:name="com.dikai.chenghunjiclient.activity.store.StoreSupActivity" >
+        </activity>
+        <activity android:name="com.dikai.chenghunjiclient.activity.store.NewsActivity" >
+        </activity>
+        <activity android:name="com.dikai.chenghunjiclient.activity.store.WebProActivity" >
+        </activity>
+        <activity android:name="com.dikai.chenghunjiclient.activity.store.WebProListActivity" >
+        </activity>
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.discover.DiscoverActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.discover.DynamicActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.discover.PublishDynamicActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.discover.MyDynamicActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.discover.MessageActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.discover.LikePersonActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.discover.LikeDetailsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.discover.MessageListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.store.BannerInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dikai.chenghunjiclient.activity.wedding.GiftListActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.dikai.chenghunjiclient.activity.wedding.FreeWedActivity" >
+        </activity>
+        <activity android:name="com.dikai.chenghunjiclient.activity.wedding.WedRuleActivity" >
+        </activity>
+        <activity android:name="com.dikai.chenghunjiclient.activity.wedding.MyWedApplyActivity" >
+        </activity>
+        <activity android:name="com.dikai.chenghunjiclient.activity.wedding.InviteWedActivity" >
+        </activity>
+        <activity android:name="com.dikai.chenghunjiclient.activity.wedding.InviteApplyActivity" >
+        </activity>
+        <activity android:name="com.dikai.chenghunjiclient.activity.wedding.RecordActivity" >
+        </activity>
+        <activity android:name="com.dikai.chenghunjiclient.activity.wedding.WedMarkActivity" >
+        </activity>
+        <activity android:name="com.lzy.imagepicker.ui.ImageBaseActivity" />
+        <activity
+            android:name="com.lzy.imagepicker.ui.ImageGridActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/ImagePickerTheme" />
+        <activity
+            android:name="com.lzy.imagepicker.ui.ImageCropActivity"
+            android:configChanges="orientation|screenSize"
+            android:hardwareAccelerated="false"
+            android:theme="@style/ImagePickerTheme" />
+        <activity
+            android:name="com.lzy.imagepicker.ui.ImagePreviewActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/ImagePickerThemeFullScreen" />
+        <activity
+            android:name="com.lzy.imagepicker.ui.ImagePreviewDelActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/ImagePickerThemeFullScreen" />
+
+        <provider
+            android:name="com.lzy.imagepicker.ImagePickerProvider"
+            android:authorities="com.dikai.chenghunjiclient.provider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+    </application>
+
+</manifest>

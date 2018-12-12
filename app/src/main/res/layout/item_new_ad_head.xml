@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:myRelativeLayout="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@color/white"/>
+    <com.dikai.chenghunjiclient.view.MyRelativeLayout
+        android:layout_marginTop="18dp"
+        android:layout_marginBottom="18dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:id="@+id/bottom_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        myRelativeLayout:relative_ratio="3">
+        <com.joooonho.SelectableRoundedImageView
+            android:id="@+id/img"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            app:sriv_left_top_corner_radius="10dp"
+            app:sriv_right_top_corner_radius="10dp"
+            app:sriv_left_bottom_corner_radius="10dp"
+            app:sriv_right_bottom_corner_radius="10dp"
+            app:sriv_border_width="0dip"
+            app:sriv_border_color="#008fea"
+            app:sriv_oval="false"/>
+    </com.dikai.chenghunjiclient.view.MyRelativeLayout>
+</RelativeLayout>

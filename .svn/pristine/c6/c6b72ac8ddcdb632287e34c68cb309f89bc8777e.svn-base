@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <View
+        android:id="@+id/top_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp" />
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize"
+            android:background="@color/white"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/activity_zone_back"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:background="?android:attr/selectableItemBackground"
+                android:padding="10dp"
+                android:src="@mipmap/ic_app_gray_back" />
+
+            <TextView
+                android:id="@+id/activity_zone_title"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginRight="40dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="手机号邀请"
+                android:textColor="@color/main_text"
+                android:textSize="19sp" />
+        </LinearLayout>
+    </android.support.design.widget.AppBarLayout>
+
+    <EditText
+        android:id="@+id/et_phone"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/bg_edit_gray"
+        android:hint="输入被添加人的手机号"
+        android:paddingStart="16dp"
+        android:textColor="@color/gray_text"
+        android:textColorHint="@color/gray_frame"
+        android:textSize="13sp"
+        android:inputType="phone" />
+
+    <EditText
+        android:id="@+id/et_name"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/bg_edit_gray"
+        android:hint="输入被添加人姓名"
+        android:paddingStart="16dp"
+        android:textColor="@color/gray_text"
+        android:textColorHint="@color/gray_frame"
+        android:textSize="13sp" />
+
+    <TextView
+        android:id="@+id/tv_add"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/bg_btn_pink_deep"
+        android:gravity="center"
+        android:text="添加"
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+</LinearLayout>

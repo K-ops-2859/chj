@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:id="@+id/item_my_friend_layout"
+    android:background="@color/white">
+
+    <TextView
+        android:layout_gravity="start"
+        android:layout_margin="16dp"
+        android:id="@+id/tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="奥迪"
+        android:textColor="@color/main_text"
+        android:textSize="14sp" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/gray_line"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"/>
+</LinearLayout>

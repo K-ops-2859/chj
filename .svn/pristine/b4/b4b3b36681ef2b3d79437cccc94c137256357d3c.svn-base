@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_message.png",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_message.png"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_share.png",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_like_pre.png",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_like_pre.png"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_invite_user.png",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_invite_user.png"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_publish_dynamic.png",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_publish_dynamic.png"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_invite_share.png",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_invite_share.png"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_dynamicshare.png",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_dynamicshare.png"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_app_blackback.png",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_app_blackback.png"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_wedding_know.png",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_wedding_know.png"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_gift_1.png",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_gift_1.png"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_invite_notice.png",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_invite_notice.png"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_car.png",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_car.png"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_nomore.png",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_nomore.png"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_wedding_mores.png",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_wedding_mores.png"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_like_nor.png",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_like_nor.png"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_invite_user.png",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_invite_user.png"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_wedding_lecture.png",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_wedding_lecture.png"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_share.png",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_invite.png",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_invite.png"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_wedding_mores.png",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_wedding_mores.png"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_publish.png",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_publish.png"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_invite_notice.png",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_invite_notice.png"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_invite_share.png",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_invite_share.png"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_nomore.png",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_nomore.png"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_publish.png",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_publish.png"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_message.png",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_message.png"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_rule.png",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_rule.png"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_phone_1.png",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_phone_1.png"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_gift_1.png",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_gift_1.png"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_like_nor.png",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_like_nor.png"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_like_pre.png",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_like_pre.png"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_car.png",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_car.png"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_phone_1.png",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_phone_1.png"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_publish_dynamic.png",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_publish_dynamic.png"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_app_blackback.png",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_app_blackback.png"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_rule.png",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_rule.png"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_invite.png",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_invite.png"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_wedding_know.png",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_wedding_know.png"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_dynamicshare.png",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_dynamicshare.png"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_wedding_lecture.png",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_wedding_lecture.png"
+    }
+]

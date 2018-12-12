@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/gray_background"
+    tools:context="com.dikai.chenghunjiclient.activity.register.CreateIdentityActivity">
+    
+    <View
+        android:id="@+id/top_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"/>
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:background="@color/white">
+            <ImageView
+                android:id="@+id/activity_create_back"
+                android:padding="10dp"
+                android:background="?android:attr/selectableItemBackground"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:scaleType="centerInside"
+                android:src="@mipmap/ic_app_gray_back"/>
+            <TextView
+                android:id="@+id/activity_create_title"
+                android:padding="5dp"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textColor="@color/main_text"
+                android:textSize="18sp"
+                android:gravity="center"
+                android:text="完善信息"/>
+
+            <RelativeLayout
+                android:layout_width="40dp"
+                android:layout_height="match_parent">
+            </RelativeLayout>
+        </LinearLayout>
+    </android.support.design.widget.AppBarLayout>
+
+    <LinearLayout
+        android:id="@+id/activity_create_logo_layout"
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:background="@color/white">
+        <TextView
+            android:id="@+id/activity_create_logo_name"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:text="用户logo"
+            android:textColor="@color/gray_text"
+            android:textSize="14sp" />
+        <ImageView
+            android:id="@+id/activity_create_logo"
+            android:layout_margin="10dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:scaleType="centerCrop"
+            android:src="@color/gray_background" />
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@mipmap/ic_app_gray_goin" />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/gray_line" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16sp"
+        android:layout_marginTop="5dp"
+        android:text="LOGO是用户在成婚记中的图片标识，最佳尺寸为400*400"
+        android:textColor="@color/gray_text"
+        android:textSize="12sp"
+        android:id="@+id/textView"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginTop="20dp"
+        android:background="@color/gray_line" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/activity_create_name_layout"
+            android:gravity="center_vertical"
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/activity_create_name_mark"
+                android:layout_marginBottom="14dp"
+                android:layout_marginTop="14dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:text="用户名称"
+                android:textColor="@color/gray_text"
+                android:textSize="14sp" />
+
+            <EditText
+                android:padding="10dp"
+                android:id="@+id/activity_create_name"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="16dp"
+                android:background="@null"
+                android:gravity="end"
+                android:hint="请填写用户名称"
+                android:textColor="@color/gray_text"
+                android:textColorHint="@color/gray_text_1"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginLeft="16dp"
+            android:background="@color/gray_line" />
+
+        <LinearLayout
+            android:id="@+id/activity_create_identity_layout"
+            android:gravity="center_vertical"
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_marginBottom="14dp"
+                android:layout_marginTop="14dp"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:text="身份"
+                android:textColor="@color/gray_text"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/activity_create_identity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="26dp"
+                android:gravity="center_vertical"
+                android:text=""
+                android:textColor="@color/gray_text_1"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginStart="16sp"
+            android:background="@color/gray_line" />
+
+        <LinearLayout
+            android:id="@+id/activity_create_location_layout"
+            android:gravity="center_vertical"
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_marginBottom="14dp"
+                android:layout_marginTop="14dp"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:text="所在地区"
+                android:textColor="@color/gray_text"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/activity_create_location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:gravity="center_vertical"
+                android:text="去设置"
+                android:textColor="@color/gray_text_1"
+                android:textSize="14sp" />
+
+            <ImageView
+                android:layout_marginRight="16dp"
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:src="@mipmap/ic_app_gray_goin" />
+        </LinearLayout>
+        <LinearLayout
+            android:visibility="gone"
+            android:id="@+id/activity_create_area_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_marginStart="16sp"
+                android:background="@color/gray_line" />
+            <LinearLayout
+                android:gravity="center_vertical"
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_marginBottom="14dp"
+                    android:layout_marginTop="14dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:text="具体地址"
+                    android:textColor="@color/gray_text"
+                    android:textSize="14sp" />
+                <EditText
+                    android:padding="10dp"
+                    android:id="@+id/activity_create_area"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="16dp"
+                    android:background="@null"
+                    android:gravity="end"
+                    android:hint="20字以内中英文、数字及括号"
+                    android:textColor="@color/gray_text"
+                    android:textColorHint="@color/gray_text_1"
+                    android:textSize="14sp" />
+            </LinearLayout>
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="@color/gray_line" />
+    </LinearLayout>
+    <TextView
+        android:id="@+id/activity_create_next"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/select_btn_main"
+        android:clickable="true"
+        android:gravity="center"
+        android:text="下一步"
+        android:textColor="@color/white"
+        android:textSize="14sp" />
+
+</LinearLayout>

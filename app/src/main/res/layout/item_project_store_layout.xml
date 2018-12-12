@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:background="@drawable/project_list_item_bg"
+    android:id="@+id/item_project_layout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="14dp"
+    android:layout_marginRight="14dp"
+    android:layout_marginLeft="14dp"
+    android:orientation="vertical"
+    xmlns:myImageView="http://schemas.android.com/apk/res-auto">
+
+    <com.dikai.chenghunjiclient.view.MyImageView
+        android:id="@+id/item_project_img"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        myImageView:aspect_ratio="1.8"
+        android:scaleType="centerCrop"
+        android:src="@color/gray_background"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp">
+        <TextView
+            android:id="@+id/item_project_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="依照邂逅而缘定"
+            android:textColor="@color/main_text"
+            android:textSize="20sp" />
+        <TextView
+            android:id="@+id/item_project_grade"
+            android:layout_marginRight="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:text=""
+            android:textColor="@color/red_deep"
+            android:textSize="14sp" />
+    </RelativeLayout>
+    <TextView
+        android:layout_margin="12dp"
+        android:id="@+id/item_project_key_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="12dp"
+        android:text="温馨，浪漫，冒险，夏威夷"
+        android:textColor="@color/gray_text"
+        android:textSize="15sp" />
+</LinearLayout>

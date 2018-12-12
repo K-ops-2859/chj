@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="com.dikai.chenghunjiclient"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <!-- 用于申请调用A-GPS模块 -->
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"/>
+    <!-- 用于访问网络 -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <!-- 用于读取手机存储 -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <!-- 用于写入手机存储 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <!-- 蓝牙分享所需的权限 -->
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <!-- 腾讯Bugly所需权限 -->
+    <uses-permission android:name="android.permission.READ_LOGS"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+
+    <application
+        android:name=".BaseApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="${applicationId}.file_provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths"/>
+        </provider>
+
+        <!-- 高德地图 -->
+        <meta-data
+            android:name="com.amap.api.v2.apikey"
+            android:value="fa3d16528f7a45b17d6da06773aa622e">
+        </meta-data>
+
+        <service android:name="com.amap.api.location.APSService"/>
+
+        <activity
+            android:name=".MainActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".WelcomeActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            <!-- Android 接收外部跳转过滤器 -->
+            <intent-filter>
+
+                <!-- 协议部分配置 ,要在web配置相同的 -->
+                <data
+                    android:host="dikai"
+                    android:scheme="chenghunjiclient"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+
+                <action android:name="android.intent.action.VIEW"/>
+            </intent-filter>
+        </activity>
+
+        <!-- shareSDK相关 -->
+        <activity
+            android:name="com.mob.tools.MobUIShell"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateHidden|adjustResize">
+
+            <!-- 调用新浪原生SDK，需要注册的回调activity -->
+            <intent-filter>
+                <action android:name="com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+
+            <!-- 集成line客户端登录授权，需要添如下格式的过滤器 -->
+            <intent-filter>
+                <data android:scheme="line.1477692153"/>
+
+                <action android:name="android.intent.action.VIEW"/>
+
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="cn.sharesdk.tencent.qq.ReceiveActivity"
+            android:launchMode="singleTask"
+            android:noHistory="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+
+                <data android:scheme="tencent1106387269"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".wxapi.WXEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+
+        <!-- 微信支付回调界面 -->
+        <activity
+            android:name=".wxapi.WXPayEntryActivity"
+            android:exported="true"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"/>
+
+        <!-- 填写您从Mob开发者后台中得到的Appkey和AppSecret -->
+        <meta-data
+            android:name="Mob-AppKey"
+            android:value="21fa672b0c5ff"/>
+        <meta-data
+            android:name="Mob-AppSecret"
+            android:value="7aaf1b71f2dbc94fbf02ffd3acb63371"/>
+
+        <!-- shareSDK相关 -->
+
+        <activity
+            android:name=".activity.store.CorpInfoActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.ProjectInfoActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.HotelInfoActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.RoomPhotoActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".citypicker.SelectCityActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.plan.PlanInfoActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.plan.RemarkActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.plan.DriverPlanActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.register.SelectIdentityActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.register.LoginActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.register.SendCodeActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.register.CreateIdentityActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.register.SelectIdentActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.register.VerifyActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.register.AllCarActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.register.AddBrandActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.register.AddCarActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.register.CarTypeActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.register.RegisterCarActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.register.ResetPwdActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.CarInfoActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.SettingActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.ClearActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.NewProjectActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.UploadCarPicActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.MyCarActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.MyTeamActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.EditRoomActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.AddRoomActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.MyCollectActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.MyCaseActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.SupEditInfoActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.UserInfoActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.HotelEditInfoActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.NewPhoneCodeActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.NewPhoneActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.CreateTeamActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.SearchCarActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.register.CreateNewsActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.register.SetNewsPwdActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.plan.NewsPlanActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.plan.AddPlanActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.plan.AddMarkActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.plan.TeamCarActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.plan.AssignCarActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.SearchSupActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateVisible|adjustPan"/>
+        <activity
+            android:name=".activity.me.InviteActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".activity.PhotoActivity"/>
+        <activity
+            android:name=".activity.wedding.MakeProjectActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.WedProjectActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.WedManInfoActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.ProQuestionActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.QuestionSelectActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.WedHotelActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.WeQuwstionActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.WedCaseActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.WedCaseInfoActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.PhoneInviteActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.PhoneNumberInviteActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.InviteWeddingActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.InviteDownLoadActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.ConvertGiftActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.InviteActivity1"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.SignBillWelfareActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.ShippingAddressActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.GetPrizeActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.PrizeDetailsActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.GetPrizeSuccessActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.RuleActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.RuleActivity1"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".activity.wedding.GuaranteeActivity"/>
+        <activity
+            android:name=".activity.wedding.WeddingPayActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.WeddingAssureActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.WeddingKnowActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.WeddingKnowListActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.WeddingKnowDetailsActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.WedDocActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.HomeSupActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.StoreSupActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.NewsActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.WebProActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.WebProListActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.discover.DiscoverActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.discover.DynamicActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan"/>
+        <activity
+            android:name=".activity.discover.PublishDynamicActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.discover.MyDynamicActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.discover.MessageActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.discover.LikePersonActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.discover.LikeDetailsActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.discover.MessageListActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.BannerInfoActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.GiftListActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.ShareAppActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.FreeWedActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.WedRuleActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.MyWedApplyActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.InviteWedActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.InviteApplyActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.RecordActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.WedMarkActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".LeadActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.MyWalletActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.BalanceActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.TiXianActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.EditZhiActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.YouHuiActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.TiXianCompleteActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.TiXianListActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.HomeFuliActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.WedCodeActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.InviteListActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.InviteRuleActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.discover.PublishVideoActivity"
+            android:theme="@style/Transparent"/>
+        <activity
+            android:name=".activity.discover.UpLoadVideoActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".activity.me.WeddingPhotoActivity"/>
+        <activity android:name=".activity.me.VideoPhotoDetailsActivity"/>
+        <activity
+            android:name=".activity.PhotoPickActivity"
+            android:theme="@style/activity_translucent"/>
+        <activity android:name=".activity.me.XinRenPhotoActivity"/>
+        <activity
+            android:name=".activity.me.MyVideoActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.BoomActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.ScanActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.BoomRecordActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.SearchProjectActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateVisible|adjustPan"/>
+        <activity
+            android:name=".activity.store.MyPrizeActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.ExchangeActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.NewArticleActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.WeddingStoreActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.WedPrizeInfoActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.ApplyPrizeActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.WedPrizeListActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.WedCartActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.CartActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.MyOrderActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.ClearCartActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.ShippintAddressActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.AddAddressActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.EditAddressActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.PrizeRuleActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.NewPlanActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.me.FeedBackActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.register.RegisterCorpActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.register.FirmRegActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.register.FirmRegeditActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.me.FocusActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.store.HotelADActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.store.ComboActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.store.ComboCommentActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.store.PropActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".activity.wedding.WeddingTaocanActivity"/>
+        <activity
+            android:name=".activity.wedding.TaocanPhotoActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.WeddingTaocan"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.wedding.TaocanDescActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.ComboVideoActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.store.WeChatPayH5Activity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.me.HomepageActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.store.CaigoujieActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.store.MyTicketActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.store.CaigoujieInfoActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.newregister.NewLoginActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.newregister.CaptchaActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.newregister.NewIdentityActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.newregister.SelectSupActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.newregister.WXPhoneActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.newregister.NewForgetPwdActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.newregister.NewPwdActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.ad.ADListActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.ad.CustomActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.ad.NewADInfoActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.store.NewHomeADActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.store.PipelineActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.me.NewOrderActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.me.WalletActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.me.WithdrawActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.me.AddAliPayActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.me.AliPayWithDrawActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.me.WalletCardActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.me.WalletAddCardActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.me.WalletRecordActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".activity.store.AddGiftActivity"/>
+        <activity android:name=".activity.store.AddCollectionActivity"/>
+        <activity
+            android:name=".activity.store.RefuseActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.store.SupPipelineActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.invitation.ComInviteMainActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.invitation.VipInviteMainActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.invitation.VipInviteRecordActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.invitation.VipInviteSuccessActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.invitation.FaceInviteActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.invitation.VipInviteBusinessActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.invitation.VipInviteBusinessWaitActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.invitation.ComInviteRecordActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.invitation.ComInviteSuccActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.me.ServiceActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.store.SearchJiedanrenActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateVisible|adjustPan">
+        </activity>
+        <activity
+            android:name=".activity.store.ProfitAreaActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.store.TestActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.ad.KeYuanActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.ad.SupKeYuanActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.newregister.PerfectActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".activity.newregister.RegisterDateActivity">
+        </activity>
+        <activity android:name=".activity.store.AddFanhuanActivity">
+        </activity>
+        <activity android:name=".activity.me.SwitchAccountActivity">
+        </activity>
+        <activity android:name=".activity.me.AddAccountActivity">
+        </activity>
+        <activity android:name=".activity.me.EditSupInfoActivity"
+                  android:windowSoftInputMode="adjustPan"/>
+        <activity android:name=".activity.me.DiscountsActivity">
+        </activity>
+        <activity android:name=".activity.me.AddDiscountsActivity">
+        </activity>
+        <activity android:name=".activity.me.NewRoomActivity">
+        </activity>
+        <activity android:name=".activity.me.AddNewRoomActivity">
+        </activity>
+        <activity android:name=".activity.me.NewRoomInfoActivity">
+        </activity>
+        <activity android:name=".activity.me.EditNewRoomActivity">
+        </activity>
+        <activity android:name=".activity.me.EditRoomInfoActivity">
+        </activity>
+        <activity android:name=".activity.me.EditRoomPhotoActivity">
+        </activity>
+    </application>
+
+</manifest>

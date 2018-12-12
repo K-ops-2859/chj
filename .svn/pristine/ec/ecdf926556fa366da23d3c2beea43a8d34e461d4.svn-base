@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:myRelativeLayout="http://schemas.android.com/apk/res-auto"
+    xmlns:myImageView="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/gray_background"
+    android:orientation="vertical">
+
+    <com.dikai.chenghunjiclient.view.MyRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        myRelativeLayout:relative_ratio="2">
+        <com.bigkoo.convenientbanner.ConvenientBanner
+            android:id="@+id/fragment_head_ad"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:canLoop="true"
+            app:layout_collapseMode="parallax" />
+    </com.dikai.chenghunjiclient.view.MyRelativeLayout>
+    <com.bigkoo.convenientbanner.ConvenientBanner
+        android:id="@+id/fragment_head_convenientBanner"
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        app:canLoop="true" />
+
+    <com.dikai.chenghunjiclient.view.MyImageView
+        android:id="@+id/invite_img"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:background="@color/white"
+        android:scaleType="centerCrop"
+        android:padding="10dp"
+        android:src="@drawable/ic_go"
+        myImageView:aspect_ratio="2.5"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:visibility="visible">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginTop="6dp"
+            android:background="@color/red_money" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dp"
+            android:background="@color/white"
+            android:orientation="horizontal"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="34dp">
+            <com.dikai.chenghunjiclient.view.MyRelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                myRelativeLayout:relative_ratio="2">
+                <com.bigkoo.convenientbanner.ConvenientBanner
+                    android:id="@+id/fragment_head_fuli"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    app:canLoop="true"
+                    app:layout_collapseMode="parallax" />
+            </com.dikai.chenghunjiclient.view.MyRelativeLayout>
+            <ImageView
+                android:visibility="gone"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:id="@+id/home_red_packet"
+                android:layout_width="100dp"
+                android:layout_height="130dp"
+                android:background="@drawable/home_hongbao"/>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="102dp"
+            android:layout_height="34dp"
+            android:layout_marginLeft="10dp">
+
+            <ImageView
+                android:layout_width="102dp"
+                android:layout_height="34dp"
+                android:src="@drawable/red" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:text="福利列表"
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:paddingTop="10dp"
+        android:visibility="visible">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginLeft="10dp"
+            android:background="@color/gray_line" />
+
+        <LinearLayout
+            android:id="@+id/invite_more"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="查看更多"
+                android:textColor="@color/red_deep"
+                android:textSize="14sp" />
+
+            <ImageView
+                android:layout_width="14dp"
+                android:layout_height="14dp"
+                android:src="@mipmap/ic_app_red_go" />
+        </LinearLayout>
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:visibility="visible">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/hot_project_recycler"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:background="@color/white"
+            android:paddingLeft="10dp"
+            android:paddingTop="34dp" />
+
+        <RelativeLayout
+            android:layout_width="102dp"
+            android:layout_height="34dp"
+            android:layout_marginLeft="10dp">
+
+            <ImageView
+                android:layout_width="102dp"
+                android:layout_height="34dp"
+                android:src="@drawable/blue" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:text="热门方案"
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:paddingTop="10dp"
+        android:visibility="visible">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginLeft="10dp"
+            android:background="@color/gray_line" />
+
+        <LinearLayout
+            android:id="@+id/webpro_more"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="查看更多"
+                android:textColor="@color/red_deep"
+                android:textSize="14sp" />
+
+            <ImageView
+                android:layout_width="14dp"
+                android:layout_height="14dp"
+                android:src="@mipmap/ic_app_red_go" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:visibility="visible">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:background="@color/white"
+            android:orientation="vertical"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="34dp">
+
+            <!--<LinearLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:orientation="horizontal">-->
+
+                <!--<com.dikai.chenghunjiclient.view.MyImageView-->
+                    <!--android:id="@+id/coupon_1"-->
+                    <!--android:layout_width="0dp"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_weight="1"-->
+                    <!--android:scaleType="centerCrop"-->
+                    <!--android:src="@color/gray_background_1"-->
+                    <!--myImageView:aspect_ratio="2" />-->
+
+                <!--<com.dikai.chenghunjiclient.view.MyImageView-->
+                    <!--android:id="@+id/coupon_2"-->
+                    <!--android:layout_width="0dp"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_marginLeft="8dp"-->
+                    <!--android:layout_weight="1"-->
+                    <!--android:scaleType="centerCrop"-->
+                    <!--android:src="@color/gray_background_1"-->
+                    <!--myImageView:aspect_ratio="2" />-->
+            <!--</LinearLayout>-->
+
+            <!--<LinearLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginBottom="10dp"-->
+                <!--android:layout_marginTop="6dp"-->
+                <!--android:orientation="horizontal">-->
+
+                <!--<com.dikai.chenghunjiclient.view.MyImageView-->
+                    <!--android:id="@+id/coupon_3"-->
+                    <!--android:layout_width="0dp"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_weight="1"-->
+                    <!--android:scaleType="centerCrop"-->
+                    <!--android:src="@color/gray_background_1"-->
+                    <!--myImageView:aspect_ratio="2" />-->
+
+                <!--<com.dikai.chenghunjiclient.view.MyImageView-->
+                    <!--android:id="@+id/coupon_4"-->
+                    <!--android:layout_width="0dp"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_marginLeft="8dp"-->
+                    <!--android:layout_weight="1"-->
+                    <!--android:scaleType="centerCrop"-->
+                    <!--android:src="@color/gray_background_1"-->
+                    <!--myImageView:aspect_ratio="2" />-->
+            <!--</LinearLayout>-->
+            <com.dikai.chenghunjiclient.view.MyImageView
+                android:layout_marginBottom="10dp"
+                android:id="@+id/fanhuan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="centerCrop"
+                myImageView:aspect_ratio="2" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="102dp"
+            android:layout_height="34dp"
+            android:layout_marginLeft="10dp">
+
+            <ImageView
+                android:layout_width="102dp"
+                android:layout_height="34dp"
+                android:src="@drawable/orange" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:text="婚礼返还"
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <!--<LinearLayout-->
+    <!--android:visibility="visible"-->
+    <!--android:paddingTop="10dp"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:orientation="vertical"-->
+    <!--android:background="@color/white">-->
+    <!--<View-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="1px"-->
+    <!--android:background="@color/gray_line"-->
+    <!--android:layout_marginLeft="10dp"/>-->
+    <!--<LinearLayout-->
+    <!--android:padding="10dp"-->
+    <!--android:gravity="center"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:orientation="horizontal">-->
+    <!--<TextView-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:textColor="@color/red_deep"-->
+    <!--android:textSize="14sp"-->
+    <!--android:text="查看更多"/>-->
+    <!--<ImageView-->
+    <!--android:layout_width="14dp"-->
+    <!--android:layout_height="14dp"-->
+    <!--android:src="@mipmap/ic_app_red_go"/>-->
+    <!--</LinearLayout>-->
+    <!--</LinearLayout>-->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:background="@color/white"
+            android:orientation="vertical"
+            android:paddingTop="34dp">
+
+            <co.lujun.androidtagview.TagContainerLayout
+                android:id="@+id/zixun_tag"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                app:container_background_color="@color/white"
+                app:container_border_color="@color/white"
+                app:container_border_radius="1dp"
+                app:container_enable_drag="false"
+                app:container_gravity="center"
+                app:tag_background_color="@color/white"
+                app:tag_border_color="@color/gray_text"
+                app:tag_border_width="1px"
+                app:tag_clickable="true"
+                app:tag_corner_radius="3dp"
+                app:tag_horizontal_padding="6dp"
+                app:tag_text_color="@color/gray_text"
+                app:tag_text_direction="ltr"
+                app:tag_text_size="14sp"
+                app:tag_theme="none"
+                app:tag_vertical_padding="3dp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_marginTop="10dp"
+                android:background="@color/gray_line" />
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/zixun_list"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="102dp"
+            android:layout_height="34dp"
+            android:layout_marginLeft="10dp">
+
+            <ImageView
+                android:layout_width="102dp"
+                android:layout_height="34dp"
+                android:src="@drawable/violet" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:text="婚礼资讯"
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:paddingTop="10dp">
+
+        <LinearLayout
+            android:id="@+id/zixun_more"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="查看更多"
+                android:textColor="@color/red_deep"
+                android:textSize="14sp" />
+
+            <ImageView
+                android:layout_width="14dp"
+                android:layout_height="14dp"
+                android:src="@mipmap/ic_app_red_go" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:background="@drawable/home_sup_title_bg"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="精选供应商"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+    <!--<com.dikai.chenghunjiclient.view.MyImageView-->
+        <!--android:id="@+id/prize_1"-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginRight="10dp"-->
+        <!--android:layout_weight="2"-->
+        <!--android:scaleType="centerCrop"-->
+        <!--android:src="@color/gray_background_1"-->
+        <!--myImageView:aspect_ratio="1" />-->
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_weight="1"-->
+        <!--android:orientation="vertical"-->
+        <!--android:paddingLeft="1dp">-->
+
+        <!--<com.dikai.chenghunjiclient.view.MyImageView-->
+            <!--android:id="@+id/prize_2"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:scaleType="centerCrop"-->
+            <!--android:src="@color/gray_background_1"-->
+            <!--myImageView:aspect_ratio="1" />-->
+
+        <!--<com.dikai.chenghunjiclient.view.MyImageView-->
+            <!--android:id="@+id/prize_3"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginTop="1dp"-->
+            <!--android:scaleType="centerCrop"-->
+            <!--android:src="@color/gray_background_1"-->
+            <!--myImageView:aspect_ratio="1" />-->
+
+    <!--</LinearLayout>-->
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_weight="1"-->
+        <!--android:orientation="vertical"-->
+        <!--android:paddingLeft="1dp">-->
+
+        <!--<com.dikai.chenghunjiclient.view.MyImageView-->
+            <!--android:id="@+id/prize_4"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:scaleType="centerCrop"-->
+            <!--android:src="@color/gray_background_1"-->
+            <!--myImageView:aspect_ratio="1" />-->
+
+        <!--<com.dikai.chenghunjiclient.view.MyImageView-->
+            <!--android:id="@+id/prize_5"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginTop="1dp"-->
+            <!--android:scaleType="centerCrop"-->
+            <!--android:src="@color/gray_background_1"-->
+            <!--myImageView:aspect_ratio="1" />-->
+
+    <!--</LinearLayout>-->
+</LinearLayout>

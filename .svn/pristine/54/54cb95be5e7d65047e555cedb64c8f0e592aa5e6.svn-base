@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_weibo_common_shadow_top.9.png",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_weibo_common_shadow_top.9.png"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_weibo_common_shadow_top.9.png",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_weibo_common_shadow_top.9.png"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_input_bg_focus.9.png",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_input_bg_focus.9.png"
+    },
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_input_bg_focus.9.png",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_input_bg_focus.9.png"
+    }
+]

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.dikai.chenghunjiclient.view.MyRelativeLayout
+    android:id="@+id/bottom_layout"
+    xmlns:myRelativeLayout="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    myRelativeLayout:relative_ratio="1">
+    <com.joooonho.SelectableRoundedImageView
+        android:id="@+id/img"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/ic_app_upload_place"
+        app:sriv_left_top_corner_radius="4dp"
+        app:sriv_right_top_corner_radius="4dp"
+        app:sriv_left_bottom_corner_radius="4dp"
+        app:sriv_right_bottom_corner_radius="4dp"
+        app:sriv_border_width="0dip"
+        app:sriv_border_color="#008fea"
+        app:sriv_oval="false"/>
+</com.dikai.chenghunjiclient.view.MyRelativeLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_margin="2dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:myImageView="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <com.dikai.chenghunjiclient.view.MyImageView
+        android:scaleType="centerCrop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/gray_background"
+        myImageView:aspect_ratio="1"
+        android:id="@+id/myImageView"/>
+</LinearLayout>

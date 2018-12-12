@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <com.joooonho.SelectableRoundedImageView
+            android:layout_marginLeft="10dp"
+            android:id="@+id/iv_user_logo"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_login_chj"
+            app:sriv_border_width="1px"
+            app:sriv_border_color="@color/gray_line"
+            app:sriv_oval="false" />
+
+        <LinearLayout
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="唯爱牵手婚礼服务"
+                android:textColor="@color/black_text"
+                android:textSize="16sp" />
+            <TextView
+                android:layout_marginTop="8dp"
+                android:id="@+id/tv_user_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="拉拉劳拉"
+                android:textColor="@color/gray_text"
+                android:textSize="14sp" />
+        </LinearLayout>
+        <ImageView
+            android:id="@+id/iv_call"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@mipmap/ic_app_yellow_call" />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="18dp"
+        android:background="@color/gray_line" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_marginLeft="8dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="工作\n时间"
+            android:textColor="@color/gray_text"
+            android:textSize="14sp" />
+        <View
+            android:layout_marginLeft="10dp"
+            android:layout_width="1px"
+            android:layout_height="20dp"
+            android:background="@color/gray_line"/>
+        <LinearLayout
+            android:layout_width="0dp"
+            android:orientation="vertical"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_weight="1">
+            <TextView
+                android:id="@+id/tv_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2017年8月23日  上午"
+                android:textColor="@color/black_text"
+                android:textSize="14sp" />
+            <TextView
+                android:id="@+id/tv_date2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="六月初四   周五"
+                android:textColor="@color/gray_text"
+                android:textSize="14sp" />
+        </LinearLayout>
+        <TextView
+            android:id="@+id/tv_remove"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/select_btn_white_gray"
+            android:paddingTop="4dp"
+            android:paddingBottom="4dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="删除记录"
+            android:textColor="@color/gray_text"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="@color/gray_background" />
+</LinearLayout>

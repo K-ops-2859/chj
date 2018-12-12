@@ -1,0 +1,46 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/gray_background"
+    android:orientation="vertical"
+    tools:context="com.dikai.chenghunjiclient.fragment.plan.OtherFragment">
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:background="@color/white">
+            <android.support.design.widget.TabLayout
+                android:id="@+id/fragment_add_tabs"
+                android:layout_marginLeft="80dp"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/white"
+                app:tabIndicatorColor="@color/main"
+                app:tabSelectedTextColor="@color/main"
+                app:tabTextColor="@color/gray_text"/>
+            <ImageView
+                android:id="@+id/fragment_add_add"
+                android:padding="10dp"
+                android:layout_marginLeft="40dp"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:src="@mipmap/ic_app_add_main"/>
+        </LinearLayout>
+    </android.support.design.widget.AppBarLayout>
+    <android.support.v4.view.ViewPager
+        android:id="@+id/fragment_add_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+    </android.support.v4.view.ViewPager>
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "E:\\SVNProject\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.6.1\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "E:\\newproject\\ChengHunJiClient12_22\\ChengHunJiClient\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.6.1\\res\\xml\\provider_paths.xml"
+    }
+]

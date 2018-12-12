@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="contacts_value_1" type="id" />
+    <item name="contacts_value_2" type="id" />
+    <item name="contacts_value_3" type="id" />
+    <item name="pick_photo_tag" type="id" />
+    <item name="assign_head_tag" type="id" />
+    <item name="assign_item_tag" type="id" />
+    <item name="assign_add_tag" type="id" />
+    <item name="project_img" type="id" />
+</resources>

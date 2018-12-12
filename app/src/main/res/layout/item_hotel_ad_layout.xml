@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/place"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:layout_margin="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        android:text="555, 本地还未参与, 玩儿命申请中!"/>
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/new_store_sup_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        tools:targetApi="lollipop"
+        android:foreground="?android:attr/selectableItemBackground"
+        app:cardCornerRadius="4dp"
+        app:cardUseCompatPadding="true"
+        app:cardPreventCornerOverlap="false">
+
+        <LinearLayout
+            android:padding="12dp"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/new_store_sup_img"
+                android:scaleType="centerCrop"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:background="@color/gray_background"/>
+            <LinearLayout
+                android:layout_marginStart="10dp"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView
+                    android:id="@+id/new_store_sup_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="15sp"
+                    android:textColor="@color/black_deep"
+                    android:text="青岛酒店"/>
+                <TextView
+                    android:id="@+id/new_store_sup_ad"
+                    android:layout_marginTop="5dp"
+                    android:padding="3dp"
+                    android:background="@drawable/jianbian_hotel_ad"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="10sp"
+                    android:textColor="@color/white"
+                    android:text="首单送2580元新人礼"/>
+                <TextView
+                    android:id="@+id/new_store_sup_info"
+                    android:layout_marginTop="5dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="12sp"
+                    android:textColor="@color/gray_text"
+                    android:text="案例 0  状态 0"/>
+                <LinearLayout
+                    android:layout_marginTop="5dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <ImageView
+                        android:id="@+id/new_store_sup_v"
+                        android:layout_width="14dp"
+                        android:layout_height="14dp"
+                        android:src="@mipmap/ic_app_v"/>
+                    <ImageView
+                        android:id="@+id/new_store_sup_gift"
+                        android:layout_marginLeft="6dp"
+                        android:layout_width="14dp"
+                        android:layout_height="14dp"
+                        android:src="@mipmap/ic_app_gift"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</RelativeLayout>

@@ -1,0 +1,38 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray_background"
+    tools:context="com.dikai.chenghunjiclient.fragment.discover.AllTrendsFragment">
+
+    <LinearLayout
+        android:visibility="gone"
+        android:id="@+id/un_login_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/ic_app_plan_holder" />
+        <TextView
+            android:id="@+id/fragment_add_place_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="您还没有登录，登录后才能查看安排哟。"
+            android:textColor="@color/gray_text"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <com.dikai.chenghunjiclient.view.MyLoadRecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_margin="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</FrameLayout>

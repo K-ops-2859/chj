@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray_background"
+    android:orientation="vertical">
+
+    <View
+        android:id="@+id/top_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp" />
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/activity_add_car_back"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:layout_marginRight="20dp"
+                android:background="?android:attr/selectableItemBackground"
+                android:padding="10dp"
+                android:scaleType="centerInside"
+                android:src="@mipmap/ic_app_gray_back" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="婚前必知"
+                android:textColor="@color/main_text"
+                android:textSize="18sp" />
+
+            <TextView
+                android:layout_width="60dp"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+    </android.support.design.widget.AppBarLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <!--<FrameLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_marginTop="16dp"-->
+        <!--android:layout_marginStart="16dp"-->
+        <!--android:layout_marginEnd="16dp"-->
+        <!--android:layout_height="130dp">-->
+
+        <!--<ImageView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:src="@color/Orange"/>-->
+
+        <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textColor="@color/white"-->
+            <!--android:text="婚礼致辞稿"-->
+            <!--android:textSize="16sp"-->
+            <!--android:layout_gravity="center"/>-->
+    <!--</FrameLayout>-->
+
+    <!--<FrameLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_marginTop="16dp"-->
+        <!--android:layout_marginStart="16dp"-->
+        <!--android:layout_marginEnd="16dp"-->
+        <!--android:layout_height="130dp">-->
+
+        <!--<ImageView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:src="@color/Orange"/>-->
+
+        <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textColor="@color/white"-->
+            <!--android:text="婚礼风俗"-->
+            <!--android:textSize="16sp"-->
+            <!--android:layout_gravity="center"/>-->
+    <!--</FrameLayout>-->
+</LinearLayout>

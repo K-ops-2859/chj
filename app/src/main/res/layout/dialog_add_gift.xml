@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_white_10dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp"
+        android:text="返还说明"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tv_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="13dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="13dp"
+        android:lineSpacingExtra="4dp"
+        android:maxLines="5"
+        android:text="人生如行路，一路艰辛，一路风景。你的目光所及，就是你的人生境界。总是看到比自己优秀的人，说明你正在走上坡路；总是看到不如自己的人，说明你正在走下坡路。与其埋怨，不如思变。——卡耐基 ​​​​"
+        android:textColor="@color/gray_text"
+        android:textSize="14sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/gray_line4" />
+
+    <TextView
+        android:id="@+id/tv_ok"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="14dp"
+        android:layout_marginTop="14dp"
+        android:text="我知道了"
+        android:textColor="@color/red_new"
+        android:textSize="16sp" />
+</LinearLayout>

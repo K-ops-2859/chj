@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:foreground="?android:attr/selectableItemBackground"
+    android:layout_marginRight="16dp"
+    android:layout_marginBottom="6dp"
+    android:id="@+id/bottom_layout"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:layout_width="100dp"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:src="@mipmap/lucky_prize2"/>
+    <TextView
+        android:id="@+id/name"
+        android:gravity="center"
+        android:padding="4dp"
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lines="1"
+        android:ellipsize="end"
+        android:textSize="12sp"
+        android:textColor="@color/gray_text"
+        android:text="奖品名称"/>
+    <TextView
+        android:id="@+id/price"
+        android:gravity="center"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:paddingBottom="4dp"
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lines="1"
+        android:ellipsize="end"
+        android:textSize="12sp"
+        android:textColor="@color/red_card"
+        android:text="￥1100"/>
+</LinearLayout>

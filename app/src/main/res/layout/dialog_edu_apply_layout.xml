@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:myRelativeLayout="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <com.dikai.chenghunjiclient.view.MyRelativeLayout
+            android:layout_centerInParent="true"
+            android:layout_margin="40dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            myRelativeLayout:relative_ratio="0.774">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/edu_apply"/>
+            <TextView
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="80dp"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="14sp"
+                android:textColor="@color/black_light"
+                android:text="我们会尽快处理您的请求\n请耐心等待"/>
+            <ImageView
+                android:id="@+id/close"
+                android:layout_marginBottom="20dp"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_width="130dp"
+                android:layout_height="41dp"
+                android:src="@drawable/iknow"/>
+
+        </com.dikai.chenghunjiclient.view.MyRelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>

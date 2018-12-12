@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <View
+        android:id="@+id/top_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp" />
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/white"
+        app:contentInsetStart="0dp"
+        app:navigationIcon="@mipmap/ic_gift_back">
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="开通vip邀请权限"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+    </android.support.v7.widget.Toolbar>
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:focusableInTouchMode="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="18dp"
+                android:layout_marginEnd="18dp"
+                android:layout_marginTop="18dp"
+                android:text="新人资源多？立即开通vip邀请，月入万元可提现！"
+                android:textColor="@color/red_new"
+                android:textSize="13sp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="18dp"
+                android:layout_marginEnd="18dp"
+                android:layout_marginTop="18dp"
+                android:text="上传申请照片（至少上传一张）"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="18dp"
+                android:layout_marginEnd="18dp"
+                android:layout_marginTop="12dp"
+                android:text="照片可证明您长期拥有新人资源，如：工作现场、名片、营业执照等"
+                android:textColor="@color/gray_text"
+                android:textSize="12sp" />
+
+            <ImageView
+                android:id="@+id/iv_upload1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/select_color_bg_gray"
+                android:clickable="true"
+                android:src="@mipmap/ic_vipinvite_bus" />
+
+            <ImageView
+                android:id="@+id/iv_upload2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="18dp"
+                android:background="@drawable/select_color_bg_gray"
+                android:clickable="true"
+                android:src="@mipmap/ic_vipinvite_bus" />
+
+            <ImageView
+                android:id="@+id/iv_upload3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="18dp"
+                android:background="@drawable/select_color_bg_gray"
+                android:clickable="true"
+                android:src="@mipmap/ic_vipinvite_bus" />
+
+            <TextView
+                android:id="@+id/tv_submit"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_marginBottom="30dp"
+                android:layout_marginEnd="18dp"
+                android:layout_marginStart="18dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/bg_btn_gray_4_pre"
+                android:gravity="center"
+                android:text="提交申请"
+                android:textColor="@color/gray_text"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+    </android.support.v4.widget.NestedScrollView>
+</LinearLayout>

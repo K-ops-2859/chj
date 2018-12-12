@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:myRelativeLayout="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_marginLeft="16dp"
+    android:layout_marginRight="16dp"
+    android:layout_marginBottom="8dp"
+    android:layout_marginTop="8dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <com.dikai.chenghunjiclient.view.MyRelativeLayout
+        android:elevation="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/all_black"
+        myRelativeLayout:relative_ratio="1.78">
+        <ImageView
+            android:id="@+id/list_item_btn"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/video_click_play_selector" />
+        <TextView
+            android:clickable="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:padding="6dp"
+            android:background="@drawable/video_unqualified_bg"
+            android:id="@+id/unqualified_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:text="不合格"/>
+
+        <FrameLayout
+            android:id="@+id/list_item_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"/>
+    </com.dikai.chenghunjiclient.view.MyRelativeLayout>
+    <TextView
+        android:id="@+id/delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_marginBottom="25dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/bg_white_round"
+        android:elevation="3dp"
+        android:padding="10dp"
+        android:paddingEnd="20dp"
+        android:paddingStart="20dp"
+        android:text="删除视频"
+        android:textColor="@color/gray_text"
+        android:textSize="15sp" />
+</LinearLayout>

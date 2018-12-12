@@ -1,0 +1,238 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/main</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/main</item>
+        <!-- AppCompatEditText选择的底线颜色 -->
+        <!--<item name="colorControlActivated">@color/main</item>-->
+        <!--<item name="colorControlHighlight">@color/main</item>-->
+    </style>
+
+    <style name="BillTabItem">
+        <item name="android:layout_width">90dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <!--<item name="android:paddingLeft">30dp</item>-->
+        <!--<item name="android:paddingRight">30dp</item>-->
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">11sp</item>
+        <item name="android:textColor">@color/bill_title_selector</item>
+    </style>
+
+    <style name="DialogCustom" parent="SpotsDialogDefault">
+        <item name="DialogTitleText">请稍后…</item>
+    </style>
+
+    <style name="FloatingStyle" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/gray_text</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="BrandedSwitch.control" parent="Theme.AppCompat.Light">
+        <!-- active thumb & track color (30% transparency) -->
+        <item name="colorControlActivated">@color/light_blue</item>
+        <item name="colorSwitchThumbNormal">@color/gray_background</item>
+    </style>
+
+    <!--<style name="BrandedSwitch.text" parent="Theme.AppCompat.Light">-->
+    <!--<item name="android:textColor">@color/switch_text_selector</item>-->
+    <!--<item name="android:textSize">8dp</item>-->
+    <!--</style>-->
+
+    <style name="BrandedCheckBox" parent="AppTheme">
+        <item name="colorAccent">#aaf000</item>
+        <item name="colorControlNormal">#ff0000</item>
+    </style>
+
+    <style name="BrandedSwitch" parent="AppTheme">
+        <item name="colorAccent">#39ac39</item>
+    </style>
+
+    <style name="DialogCustomtwo" parent="SpotsDialogDefault">
+        <item name="DialogTitleText">请稍后…</item>
+    </style>
+
+    <style name="MaterialSearchViewStyle">
+        <!-- Background for the search bar -->
+        <item name="searchBackground">@color/white</item>
+
+        <!-- Change voice icon -->
+        <item name="searchVoiceIcon">@drawable/ic_action_voice_search_inverted</item>
+
+        <!-- Change clear text icon -->
+        <item name="searchCloseIcon">@drawable/ic_action_navigation_close_inverted</item>
+
+        <!-- Change up icon -->
+        <item name="searchBackIcon">@drawable/ic_action_navigation_arrow_back</item>
+
+        <!-- Change icon for the suggestions -->
+        <item name="searchSuggestionIcon">@drawable/ic_action_navigation_arrow_back</item>
+
+        <!-- Change background for the suggestions list view -->
+        <item name="searchSuggestionBackground">@android:color/white</item>
+
+        <!-- Change text color for edit text. This will also be the color of the cursor -->
+        <item name="android:textColor">@color/main_text</item>
+
+        <!-- Change hint text color for edit text -->
+        <item name="android:textColorHint">@color/gray_text</item>
+
+        <!-- Hint for edit text -->
+        <item name="android:hint">输入查询内容</item>
+    </style>
+
+    <style name="myDialogAnim" parent="android:Animation">
+
+        <!-- 进入时的动画 -->
+        <item name="@android:windowEnterAnimation">@anim/dialog_enter</item>
+        <!-- 退出时的动画 -->
+        <item name="@android:windowExitAnimation">@anim/dialog_exit</item>
+    </style>
+
+    <style name="weekIndicatorStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">#ff25adff</item>
+    </style>
+
+    <style name="photoDialog" parent="android:style/Theme.Dialog">
+        <!--背景颜色及和透明程度-->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!--是否去除标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!--是否去除边框-->
+        <item name="android:windowFrame">@null</item>
+        <!--是否浮现在activity之上-->
+        <item name="android:windowIsFloating">true</item>
+        <!--是否模糊-->
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="AppStyle.MdToolbar" parent="MdToolbar" />
+
+    <style name="DiscoverDialog" parent="@android:style/Theme.Translucent">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>//无标题
+        <item name="android:windowBackground">@color/gray_transparent</item>//背景
+        <item name="android:windowIsFloating">true</item>//悬浮
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="MdToolbar" parent="Widget.AppCompat.Toolbar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">?attr/actionBarSize</item>
+        <item name="android:background">?attr/mdColor_primaryPalette</item>
+        <item name="titleTextAppearance">@style/MdToolbar.Title</item>
+        <item name="subtitleTextAppearance">@style/MdToolbar.Subtitle</item>
+    </style>
+    <style name="MdToolbar.Subtitle" parent="TextAppearance.Widget.AppCompat.Toolbar.Subtitle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">?attr/mdTextColorSecondary_primaryPalette</item>
+    </style>
+    <style name="MdToolbar.Title" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">?attr/mdTextColorPrimary_primaryPalette</item>
+    </style>
+
+    <style name="activity_translucent" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/black_translucent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
+    </style>
+
+    <style name="count_over_text" parent="Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Small">
+        >
+        <item name="android:textColor">@color/red</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="count_text" parent="Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Small">>
+        <item name="android:textColor">@color/gray_text</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="Transparent" parent="AppTheme">
+        <item name="android:windowBackground">@color/transparent_white_deep</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@style/MyNoneAnimation</item>
+    </style>
+
+    <style name="MyNoneAnimation">
+        <item name="android:activityOpenEnterAnimation">@null</item>
+        <item name="android:activityOpenExitAnimation">@null</item>
+        <item name="android:activityCloseEnterAnimation">@null</item>
+        <item name="android:activityCloseExitAnimation">@null</item>
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"></style>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="BannerDefaultStyle">
+        <!-- 自定义属性在styles.xml中不需要命名空间,直接用属性名就可以了 -->
+        <!-- 开启自动轮播 -->
+        <item name="banner_pointAutoPlayAble">true</item>
+        <!-- 自动轮播的时间间隔 -->
+        <item name="banner_pointAutoPlayInterval">3800</item>
+        <!-- 指示点容器背景 -->
+        <item name="banner_pointContainerBackground">@color/transparent</item>
+        <!-- 指示点背景 -->
+        <item name="banner_pointDrawable">@color/transparent</item>
+        <!-- 指示点容器左右内间距 -->
+        <item name="banner_pointContainerLeftRightPadding">10dp</item>
+        <!-- 指示点上下外间距 -->
+        <item name="banner_pointTopBottomMargin">6dp</item>
+        <!-- 指示点左右外间距 -->
+        <item name="banner_pointLeftRightMargin">3dp</item>
+        <!-- 指示器的位置 -->
+        <item name="banner_indicatorGravity">bottom|center_horizontal</item>
+        <!-- 页码切换过程的时间长度 -->
+        <item name="banner_pageChangeDuration">800</item>
+        <!-- 提示文案的文字大小 -->
+        <item name="banner_tipTextSize">10sp</item>
+        <!-- 提示文案的文字颜色 -->
+        <item name="banner_tipTextColor">@android:color/white</item>
+        <!-- 加载网络数据时覆盖在BGABanner最上层的占位图 -->
+        <item name="banner_placeholderDrawable">@color/gray_background</item>
+    </style>
+
+    <style name="MainTabItem">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@null</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@color/select_identity_text</item>
+    </style>
+
+    <style name="VipTabItem">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@null</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>

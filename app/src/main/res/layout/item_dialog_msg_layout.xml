@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:paddingRight="6dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:layout_marginLeft="70dp"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:src="@drawable/item_dialog_sanjiao_bg"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/item_dialog_yuanjiao_bg">
+        <TextView
+            android:id="@+id/item_first_text"
+            android:clickable="true"
+            android:padding="8dp"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="修改"/>
+        <View
+            android:layout_gravity="center_horizontal"
+            android:layout_width="80dp"
+            android:layout_height="1px"
+            android:background="@color/gray_text"/>
+        <TextView
+            android:id="@+id/item_second_text"
+            android:clickable="true"
+            android:padding="8dp"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:text="删除"/>
+    </LinearLayout>
+</LinearLayout>

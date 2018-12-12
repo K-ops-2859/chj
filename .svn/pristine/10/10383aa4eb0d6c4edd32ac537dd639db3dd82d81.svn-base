@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titles">
+        <item>Android</item>
+        <item>IOS</item>
+        <item>JAVA</item>
+        <item>C++</item>
+        <item>Ruby</item>
+        <item>WEB</item>
+        <item>HTML</item>
+        <item>PERL</item>
+        <item>C</item>
+        <item>SWIFT</item>
+        <item>Python</item>
+        <item>C</item>
+        <item>C#</item>
+        <item>JS</item>
+    </string-array>
+
+    <string-array name="items">
+        <item>Normal List</item>
+        <item>Normal Grid</item>
+        <item>Normal Staggered</item>
+        <item>Multiple List</item>
+        <item>Multiple Grid</item>
+        <item>Header Bottom List</item>
+        <item>Header Bottom Grid</item>
+        <item>Anim List</item>
+        <item>Anim Grid</item>
+        <item>Expended List</item>
+        <item>Expended Grid</item>
+        <item>Single Select</item>
+        <item>Multiple Select</item>
+    </string-array>
+    <declare-styleable name="FancyIndexer">
+        <attr name="widthOffset" format="dimension" />
+        <attr name="minFontSize" format="integer" />
+        <attr name="maxFontSize" format="integer" />
+        <attr name="tipFontSize" format="integer" />
+        <attr name="maxBezierHeight" format="dimension" />
+        <attr name="maxBezierWidth" format="dimension" />
+        <attr name="maxBezierLines" format="integer" />
+        <attr name="additionalTipOffset" format="dimension" />
+        <attr name="fontColor" format="color" />
+        <attr name="tipFontColor" format="color" />
+    </declare-styleable>
+    <declare-styleable name="card">
+        <attr name="itemMarginTop" format="dimension" />
+        <attr name="bottomMarginTop" format="dimension" />
+        <attr name="yMyOffsetStep" format="dimension" />
+        <attr name="widthHeightRate" format="float" />
+    </declare-styleable>
+    <declare-styleable name="myimageview">
+        <attr name="whRate" format="float" />
+    </declare-styleable>
+
+    <declare-styleable name="myImageView">
+        <attr name="aspect_ratio" format="float" />
+    </declare-styleable>
+
+    <declare-styleable name="myRelativeLayout">
+        <attr name="relative_ratio" format="float" />
+    </declare-styleable>
+    <style name="MyCheckBox" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">@color/gray_text</item>
+        <item name="colorControlActivated">@color/red_main2</item>
+    </style>
+    <style name="main_text_appearance" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/main_text</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+    <style name="main_text_appearance3" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/black_deep</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="main_text_appearance2" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+    <declare-styleable name="MyLuckyItem">
+        <attr name="prizeImg" format="reference"/>
+        <attr name="prizeName" format="string|reference"/>
+        <attr name="item_ratio" format="float" />
+    </declare-styleable>
+
+    <declare-styleable name="myTextView">
+        <attr name="left_size" format="integer" />
+        <attr name="left_color" format="color|reference"/>
+        <attr name="left_bg" format="color|reference"/>
+        <attr name="left_padding_l" format="integer"/>
+        <attr name="left_padding_r" format="integer"/>
+        <attr name="left_padding_b" format="integer"/>
+        <attr name="left_padding_t" format="integer"/>
+        <attr name="left_margin_l" format="integer"/>
+        <attr name="left_margin_r" format="integer"/>
+        <attr name="left_margin_b" format="integer"/>
+        <attr name="left_margin_t" format="integer"/>
+        <attr name="left_text" format="string"/>
+
+        <attr name="right_size" format="integer" />
+        <attr name="right_color" format="color|reference"/>
+        <attr name="right_bg" format="color|reference"/>
+        <attr name="right_padding_l" format="integer"/>
+        <attr name="right_padding_r" format="integer"/>
+        <attr name="right_padding_b" format="integer"/>
+        <attr name="right_padding_t" format="integer"/>
+        <attr name="right_margin_l" format="integer"/>
+        <attr name="right_margin_r" format="integer"/>
+        <attr name="right_margin_b" format="integer"/>
+        <attr name="right_margin_t" format="integer"/>
+        <attr name="right_text" format="string"/>
+    </declare-styleable>
+    <declare-styleable name="ReadMoreTextView">
+        <attr name="trimExpandedText" format="string"/>
+        <attr name="trimCollapsedText" format="string"/>
+        <attr name="trimLength" format="integer"/>
+        <attr name="showTrimExpandedText" format="boolean"/>
+        <attr name="colorClickableText" format="color"/>
+        <attr name="trimLines" format="integer"/>
+        <attr name="trimMode">
+            <enum name="trimModeLine" value="0"/>
+            <enum name="trimModeLength" value="1"/>
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="core_area">
+        <attr name="underline_color" format="color"/>
+        <attr name="underline_selected_color" format="color"/>
+        <attr name="hint_color" format="color"/>
+        <attr name="text_color" format="color"/>
+        <attr name="hint_text" format="string"/>
+        <attr name="codes" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="MdButton">
+        <attr name="mdb_type" format="integer">
+            <enum name="normal" value="11" />
+            <enum name="colored" value="12" />
+            <enum name="borderless" value="13" />
+            <enum name="borderless_colored" value="14" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="MdColor">
+        <attr name="mdColor_primaryPalette" format="color|reference" />
+        <attr name="mdColor_primaryPalette_dark" format="color|reference" />
+        <attr name="mdColor_primaryPalette_light" format="color|reference" />
+        <attr name="mdColor_accentPalette" format="color|reference" />
+        <attr name="mdColor_accentPalette_dark" format="color|reference" />
+        <attr name="mdColor_accentPalette_light" format="color|reference" />
+        <attr name="mdColor_warnPalette" format="color|reference" />
+        <attr name="mdColor_warnPalette_dark" format="color|reference" />
+        <attr name="mdColor_warnPalette_light" format="color|reference" />
+        <attr name="mdColor_backgroundPalette" format="color|reference" />
+        <attr name="mdColor_backgroundPalette_dark" format="color|reference" />
+        <attr name="mdColor_backgroundPalette_light" format="color|reference" />
+        <attr name="mdTextColorPrimary_primaryPalette" format="color|reference" />
+        <attr name="mdTextColorPrimary_primaryPalette_dark" format="color|reference" />
+        <attr name="mdTextColorPrimary_primaryPalette_light" format="color|reference" />
+        <attr name="mdTextColorSecondary_primaryPalette" format="color|reference" />
+        <attr name="mdTextColorSecondary_primaryPalette_dark" format="color|reference" />
+        <attr name="mdTextColorSecondary_primaryPalette_light" format="color|reference" />
+        <attr name="mdTextColorHint_primaryPalette" format="color|reference" />
+        <attr name="mdTextColorHint_primaryPalette_dark" format="color|reference" />
+        <attr name="mdTextColorHint_primaryPalette_light" format="color|reference" />
+        <attr name="mdColorDivider_primaryPalette" format="color|reference" />
+        <attr name="mdColorDivider_primaryPalette_dark" format="color|reference" />
+        <attr name="mdColorDivider_primaryPalette_light" format="color|reference" />
+        <attr name="mdTextColorPrimaryInverse_primaryPalette" format="color|reference" />
+        <attr name="mdTextColorPrimaryInverse_primaryPalette_dark" format="color|reference" />
+        <attr name="mdTextColorPrimaryInverse_primaryPalette_light" format="color|reference" />
+        <attr name="mdTextColorSecondaryInverse_primaryPalette" format="color|reference" />
+        <attr name="mdTextColorSecondaryInverse_primaryPalette_dark" format="color|reference" />
+        <attr name="mdTextColorSecondaryInverse_primaryPalette_light" format="color|reference" />
+        <attr name="mdTextColorHintInverse_primaryPalette" format="color|reference" />
+        <attr name="mdTextColorHintInverse_primaryPalette_dark" format="color|reference" />
+        <attr name="mdTextColorHintInverse_primaryPalette_light" format="color|reference" />
+        <attr name="mdColorDividerInverse_primaryPalette" format="color|reference" />
+        <attr name="mdColorDividerInverse_primaryPalette_dark" format="color|reference" />
+        <attr name="mdColorDividerInverse_primaryPalette_light" format="color|reference" />
+        <attr name="mdTextColorPrimary_accentPalette" format="color|reference" />
+        <attr name="mdTextColorPrimary_accentPalette_dark" format="color|reference" />
+        <attr name="mdTextColorPrimary_accentPalette_light" format="color|reference" />
+        <attr name="mdTextColorSecondary_accentPalette" format="color|reference" />
+        <attr name="mdTextColorSecondary_accentPalette_dark" format="color|reference" />
+        <attr name="mdTextColorSecondary_accentPalette_light" format="color|reference" />
+        <attr name="mdTextColorHint_accentPalette" format="color|reference" />
+        <attr name="mdTextColorHint_accentPalette_dark" format="color|reference" />
+        <attr name="mdTextColorHint_accentPalette_light" format="color|reference" />
+        <attr name="mdColorDivider_accentPalette" format="color|reference" />
+        <attr name="mdColorDivider_accentPalette_dark" format="color|reference" />
+        <attr name="mdColorDivider_accentPalette_light" format="color|reference" />
+        <attr name="mdTextColorPrimaryInverse_accentPalette" format="color|reference" />
+        <attr name="mdTextColorPrimaryInverse_accentPalette_dark" format="color|reference" />
+        <attr name="mdTextColorPrimaryInverse_accentPalette_light" format="color|reference" />
+        <attr name="mdTextColorSecondaryInverse_accentPalette" format="color|reference" />
+        <attr name="mdTextColorSecondaryInverse_accentPalette_dark" format="color|reference" />
+        <attr name="mdTextColorSecondaryInverse_accentPalette_light" format="color|reference" />
+        <attr name="mdTextColorHintInverse_accentPalette" format="color|reference" />
+        <attr name="mdTextColorHintInverse_accentPalette_dark" format="color|reference" />
+        <attr name="mdTextColorHintInverse_accentPalette_light" format="color|reference" />
+        <attr name="mdColorDividerInverse_accentPalette" format="color|reference" />
+        <attr name="mdColorDividerInverse_accentPalette_dark" format="color|reference" />
+        <attr name="mdColorDividerInverse_accentPalette_light" format="color|reference" />
+        <attr name="mdTextColorPrimary_warnPalette" format="color|reference" />
+        <attr name="mdTextColorPrimary_warnPalette_dark" format="color|reference" />
+        <attr name="mdTextColorPrimary_warnPalette_light" format="color|reference" />
+        <attr name="mdTextColorSecondary_warnPalette" format="color|reference" />
+        <attr name="mdTextColorSecondary_warnPalette_dark" format="color|reference" />
+        <attr name="mdTextColorSecondary_warnPalette_light" format="color|reference" />
+        <attr name="mdTextColorHint_warnPalette" format="color|reference" />
+        <attr name="mdTextColorHint_warnPalette_dark" format="color|reference" />
+        <attr name="mdTextColorHint_warnPalette_light" format="color|reference" />
+        <attr name="mdColorDivider_warnPalette" format="color|reference" />
+        <attr name="mdColorDivider_warnPalette_dark" format="color|reference" />
+        <attr name="mdColorDivider_warnPalette_light" format="color|reference" />
+        <attr name="mdTextColorPrimaryInverse_warnPalette" format="color|reference" />
+        <attr name="mdTextColorPrimaryInverse_warnPalette_dark" format="color|reference" />
+        <attr name="mdTextColorPrimaryInverse_warnPalette_light" format="color|reference" />
+        <attr name="mdTextColorSecondaryInverse_warnPalette" format="color|reference" />
+        <attr name="mdTextColorSecondaryInverse_warnPalette_dark" format="color|reference" />
+        <attr name="mdTextColorSecondaryInverse_warnPalette_light" format="color|reference" />
+        <attr name="mdTextColorHintInverse_warnPalette" format="color|reference" />
+        <attr name="mdTextColorHintInverse_warnPalette_dark" format="color|reference" />
+        <attr name="mdTextColorHintInverse_warnPalette_light" format="color|reference" />
+        <attr name="mdColorDividerInverse_warnPalette" format="color|reference" />
+        <attr name="mdColorDividerInverse_warnPalette_dark" format="color|reference" />
+        <attr name="mdColorDividerInverse_warnPalette_light" format="color|reference" />
+        <attr name="mdTextColorPrimary_backgroundPalette" format="color|reference" />
+        <attr name="mdTextColorPrimary_backgroundPalette_dark" format="color|reference" />
+        <attr name="mdTextColorPrimary_backgroundPalette_light" format="color|reference" />
+        <attr name="mdTextColorSecondary_backgroundPalette" format="color|reference" />
+        <attr name="mdTextColorSecondary_backgroundPalette_dark" format="color|reference" />
+        <attr name="mdTextColorSecondary_backgroundPalette_light" format="color|reference" />
+        <attr name="mdTextColorHint_backgroundPalette" format="color|reference" />
+        <attr name="mdTextColorHint_backgroundPalette_dark" format="color|reference" />
+        <attr name="mdTextColorHint_backgroundPalette_light" format="color|reference" />
+        <attr name="mdColorDivider_backgroundPalette" format="color|reference" />
+        <attr name="mdColorDivider_backgroundPalette_dark" format="color|reference" />
+        <attr name="mdColorDivider_backgroundPalette_light" format="color|reference" />
+        <attr name="mdTextColorPrimaryInverse_backgroundPalette" format="color|reference" />
+        <attr name="mdTextColorPrimaryInverse_backgroundPalette_dark" format="color|reference" />
+        <attr name="mdTextColorPrimaryInverse_backgroundPalette_light" format="color|reference" />
+        <attr name="mdTextColorSecondaryInverse_backgroundPalette" format="color|reference" />
+        <attr name="mdTextColorSecondaryInverse_backgroundPalette_dark" format="color|reference" />
+        <attr name="mdTextColorSecondaryInverse_backgroundPalette_light" format="color|reference" />
+        <attr name="mdTextColorHintInverse_backgroundPalette" format="color|reference" />
+        <attr name="mdTextColorHintInverse_backgroundPalette_dark" format="color|reference" />
+        <attr name="mdTextColorHintInverse_backgroundPalette_light" format="color|reference" />
+        <attr name="mdColorDividerInverse_backgroundPalette" format="color|reference" />
+        <attr name="mdColorDividerInverse_backgroundPalette_dark" format="color|reference" />
+        <attr name="mdColorDividerInverse_backgroundPalette_light" format="color|reference" />
+        <attr name="colorControlDisabled" format="color|reference" />
+        <attr name="mdIconColor_primaryPalette" format="color|reference" />
+        <attr name="mdIconColor_accentPalette" format="color|reference" />
+        <attr name="mdIconColor_warnPalette" format="color|reference" />
+        <attr name="mdIconColor_backgroundPalette" format="color|reference" />
+        <attr name="mdDrawerArrowToggleColor" format="color|reference" />
+    </declare-styleable>
+    <declare-styleable name="MdIcon">
+        <attr name="enabled" format="boolean|reference" />
+        <attr name="tint" format="color|reference" />
+        <attr name="tintMode" format="integer">
+            <enum name="clear" value="0" />
+            <enum name="src" value="1" />
+            <enum name="dst" value="2" />
+            <enum name="src_over" value="3" />
+            <enum name="dst_over" value="4" />
+            <enum name="src_in" value="5" />
+            <enum name="dst_in" value="6" />
+            <enum name="src_out" value="7" />
+            <enum name="dst_out" value="8" />
+            <enum name="src_atop" value="9" />
+            <enum name="dst_atop" value="10" />
+            <enum name="xor" value="11" />
+            <enum name="darken" value="16" />
+            <enum name="lighten" value="17" />
+            <enum name="multiply" value="13" />
+            <enum name="screen" value="14" />
+            <enum name="add" value="12" />
+            <enum name="overlay" value="15" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="MdListItem">
+        <attr name="mdli_divider_layout" format="reference" />
+        <attr name="mdli_title" format="string|reference" />
+        <attr name="mdli_subtitle" format="string|reference" />
+        <attr name="mdli_avatar" format="reference" />
+        <attr name="mdli_icon" format="reference" />
+        <attr name="mdli_icon_tintMode" format="integer">
+            <enum name="clear" value="0" />
+            <enum name="src" value="1" />
+            <enum name="dst" value="2" />
+            <enum name="src_over" value="3" />
+            <enum name="dst_over" value="4" />
+            <enum name="src_in" value="5" />
+            <enum name="dst_in" value="6" />
+            <enum name="src_out" value="7" />
+            <enum name="dst_out" value="8" />
+            <enum name="src_atop" value="9" />
+            <enum name="dst_atop" value="10" />
+            <enum name="xor" value="11" />
+            <enum name="darken" value="16" />
+            <enum name="lighten" value="17" />
+            <enum name="multiply" value="13" />
+            <enum name="screen" value="14" />
+            <enum name="add" value="12" />
+            <enum name="overlay" value="15" />
+        </attr>
+        <attr name="mdli_type" format="integer">
+            <enum name="single_line_text_only" value="11" />
+            <enum name="single_line_icon_with_text" value="12" />
+            <enum name="single_line_avatar_with_text" value="13" />
+            <enum name="single_line_avatar_with_text_and_icon" value="14" />
+            <enum name="two_line_text_only" value="21" />
+            <enum name="two_line_icon_with_text" value="22" />
+            <enum name="two_line_avatar_with_text" value="23" />
+            <enum name="two_line_avatar_with_text_and_icon" value="24" />
+            <enum name="three_line_text_only" value="31" />
+            <enum name="three_line_icon_with_text" value="32" />
+            <enum name="three_line_avatar_with_text" value="33" />
+            <enum name="three_line_avatar_with_text_and_icon" value="34" />
+        </attr>
+    </declare-styleable>
+</resources>

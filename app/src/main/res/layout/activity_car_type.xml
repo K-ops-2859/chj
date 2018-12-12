@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/activity_car_type"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/gray_background"
+    tools:context="com.dikai.chenghunjiclient.activity.register.CarTypeActivity">
+
+    <View
+        android:id="@+id/top_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"/>
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:background="@color/white">
+            <ImageView
+                android:layout_marginRight="40dp"
+                android:id="@+id/activity_car_type_back"
+                android:padding="10dp"
+                android:background="?android:attr/selectableItemBackground"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:scaleType="centerInside"
+                android:src="@mipmap/ic_app_gray_back"/>
+            <TextView
+                android:id="@+id/activity_car_type_title"
+                android:padding="5dp"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textColor="@color/main_text"
+                android:textSize="18sp"
+                android:gravity="center"
+                android:text=""/>
+
+            <TextView
+                android:id="@+id/activity_car_type_finish"
+                android:clickable="true"
+                android:gravity="center"
+                android:layout_width="80dp"
+                android:layout_height="match_parent"
+                android:textSize="14sp"
+                android:textColor="@color/green"
+                android:text="自行添加"/>
+        </LinearLayout>
+    </android.support.design.widget.AppBarLayout>
+
+    <com.dikai.chenghunjiclient.view.MyLoadRecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@+id/activity_car_type_recycler"/>
+    
+</LinearLayout>

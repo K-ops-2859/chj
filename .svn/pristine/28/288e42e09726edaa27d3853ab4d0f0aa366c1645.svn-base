@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/item_plan_car_name"
+        android:paddingTop="10dp"
+        android:paddingLeft="10dp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:textSize="14sp"
+        android:textColor="@color/main_text"
+        android:text="保时捷"/>
+    <TextView
+        android:id="@+id/item_plan_car_color"
+        android:paddingTop="10dp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:textSize="14sp"
+        android:textColor="@color/main_text"
+        android:text="白色"/>
+    <TextView
+        android:id="@+id/item_plan_car_num"
+        android:paddingTop="10dp"
+        android:paddingRight="10dp"
+        android:gravity="end"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="14sp"
+        android:textColor="@color/main_text"
+        android:text="x 1"/>
+</LinearLayout>

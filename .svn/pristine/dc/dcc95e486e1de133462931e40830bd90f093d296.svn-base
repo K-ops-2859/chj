@@ -1,0 +1,13 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray_background"
+    tools:context="com.dikai.chenghunjiclient.fragment.discover.MyDynamicFragment">
+    <com.dikai.chenghunjiclient.view.MyLoadRecyclerView
+        android:layout_margin="4dp"
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</FrameLayout>

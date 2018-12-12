@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/hotel_layout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="14dp"
+    android:layout_marginLeft="12dp"
+    android:layout_marginRight="12dp"
+    android:background="@drawable/text_bg_black"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="right">
+        <ImageView
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:src="@mipmap/ic_app_pink_edit"/>
+        <TextView
+            android:id="@+id/we_hotel_edit"
+            android:clickable="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/main_line"
+            android:textSize="14sp"
+            android:text=" 编辑"/>
+    </LinearLayout>
+
+    <TextView
+        android:lineSpacingExtra="4dp"
+        android:id="@+id/we_hotel"
+        android:layout_marginTop="14dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/gray_text"
+        android:textSize="14sp"
+        android:text=""/>
+    <com.jaeger.ninegridimageview.NineGridImageView
+        android:id="@+id/we_hotel_nine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        app:imgGap="4dp"
+        app:showStyle="fill"
+        app:singleImgSize="120dp" />
+</LinearLayout>

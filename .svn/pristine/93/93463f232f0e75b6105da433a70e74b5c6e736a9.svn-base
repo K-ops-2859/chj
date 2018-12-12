@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/activity_edit_room"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context="com.dikai.chenghunjiclient.activity.me.EditRoomActivity">
+    <View
+        android:id="@+id/top_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"/>
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:background="@color/white">
+            <ImageView
+                android:layout_marginRight="20dp"
+                android:id="@+id/activity_my_team_back"
+                android:padding="10dp"
+                android:background="?android:attr/selectableItemBackground"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:scaleType="centerInside"
+                android:src="@mipmap/ic_app_gray_back"/>
+            <TextView
+                android:padding="5dp"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textColor="@color/main_text"
+                android:textSize="18sp"
+                android:gravity="center"
+                android:text="宴会厅管理"/>
+
+            <TextView
+                android:id="@+id/activity_my_team_edit"
+                android:clickable="true"
+                android:layout_width="60dp"
+                android:layout_height="match_parent"
+                android:textColor="@color/green"
+                android:textSize="15sp"
+                android:gravity="center"
+                android:text="添加"/>
+        </LinearLayout>
+    </android.support.design.widget.AppBarLayout>
+
+    <com.dikai.chenghunjiclient.view.MyLoadRecyclerView
+        android:layout_margin="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@+id/activity_photo_recycler"/>
+
+</LinearLayout>

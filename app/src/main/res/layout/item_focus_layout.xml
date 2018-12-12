@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/bottom_layout"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:gravity="center_vertical"
+        android:padding="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/white">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_marginEnd="10dp"
+            android:id="@+id/logo"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@mipmap/ic_app_logo_place" />
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:lines="1"
+                android:ellipsize="end"
+                android:textColor="@color/black_deep"
+                android:textSize="16sp"
+                android:text="南风"/>
+            <TextView
+                android:id="@+id/profession"
+                android:layout_margin="5dp"
+                android:paddingLeft="3dp"
+                android:paddingRight="3dp"
+                android:paddingTop="1dp"
+                android:paddingBottom="1dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:background="@drawable/text_pink_gray_line"
+                android:textSize="12sp"
+                android:text="婚庆"/>
+        </LinearLayout>
+        <TextView
+            android:id="@+id/state"
+            android:clickable="true"
+            android:gravity="center"
+            android:layout_width="60dp"
+            android:layout_height="24dp"
+            android:textColor="@color/black_light"
+            android:background="@drawable/bg_gray_line"
+            android:textSize="12sp"
+            android:text="取消关注"/>
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/gray_line"/>
+</LinearLayout>

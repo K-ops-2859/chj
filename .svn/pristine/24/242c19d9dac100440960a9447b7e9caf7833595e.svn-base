@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <View
+        android:id="@+id/top_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp" />
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/activity_add_car_back"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:layout_marginRight="20dp"
+                android:background="?android:attr/selectableItemBackground"
+                android:padding="10dp"
+                android:scaleType="centerInside"
+                android:src="@mipmap/ic_app_gray_back" />
+
+            <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:padding="5dp"
+                android:textColor="@color/main_text"
+                android:textSize="18sp" />
+
+            <TextView
+                android:layout_width="60dp"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+    </android.support.design.widget.AppBarLayout>
+
+    <TextView
+        android:id="@+id/tv_content_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:layout_marginTop="16dp"
+        android:text="各位亲朋好友，感情您及家人百忙中来参加我们的婚礼!"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:id="@+id/tv_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="        在这样的大喜日子里，我非常激动，首先我想感谢我的父母，是他们养育了我，没有他们的呵护与关怀，就没有我的今天；（转身面向父母鞠躬，新娘一起鞠躬）其次我要感谢我的岳父岳母，感谢他们培养了这么好的女儿，并放心的将他们的掌上明珠托付给我；（转身面向岳父岳母鞠躬，新娘一起鞠躬）；再次感谢我老婆，一直给予我信任与照顾；（转身面向老婆鞠躬）；最后，我还想感谢我俩的亲戚朋友，感谢你们来见证我们这一生最重要的时刻！（面向大家鞠躬，新娘一起鞠躬）"
+        android:textColor="@color/gray_text"
+        android:textSize="14sp"
+        android:lineSpacingExtra="3dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="16dp"/>
+
+</LinearLayout>

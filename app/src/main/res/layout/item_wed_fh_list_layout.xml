@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/bottom_layout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:myImageView="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white">
+    <com.dikai.chenghunjiclient.view.MyImageView
+        android:id="@+id/img"
+        android:layout_marginBottom="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        android:background="@color/gray_background"
+        myImageView:aspect_ratio="2"/>
+</RelativeLayout>

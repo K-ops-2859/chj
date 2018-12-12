@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/activity_search_jiedanren"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context="com.dikai.chenghunjiclient.activity.store.SearchJiedanrenActivity">
+    <View
+        android:id="@+id/top_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"/>
+    <LinearLayout
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:gravity="center_vertical"
+            android:background="@drawable/search_bg"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_margin="6dp"
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:src="@mipmap/ic_search"/>
+            <EditText
+                android:inputType="phone"
+                android:id="@+id/activity_search_project_edit"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@null"
+                android:textColorHint="@color/gray_text"
+                android:textColor="@color/black_light"
+                android:textSize="14sp"
+                android:hint="输入你想查找的接单人手机"/>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/activity_search_project_close"
+            android:paddingLeft="16dp"
+            android:paddingRight="6dp"
+            android:layout_gravity="center_vertical"
+            android:layout_width="38dp"
+            android:layout_height="14dp"
+            android:src="@mipmap/ic_app_close_search"/>
+    </LinearLayout>
+
+    <com.dikai.chenghunjiclient.view.MyLoadRecyclerView
+        android:id="@+id/activity_search_project_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>

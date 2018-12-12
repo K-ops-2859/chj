@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\libs\ShareSDK-QZone-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dea402700998e6779f82356a565aed1dfc60d430">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QZone-3.1.0_9336d7fe9126edee4ba986fd2e27ffaa935a249c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_d0ab19e9ed31acba04f29eb3f5b3f129ee2bc716\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.1_42233732b5ad75876dbf653086e102322017d376\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\libs\ShareSDK-Wechat-Core-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3fb3435f069578f09b2bb22dd1aad305f55f74d0">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Core-3.1.0_10fd10f109d6c6c3d099642f16db1450e23a448a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.github.chrisbanes.photoview\library\1.2.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98b5309c8d368a7c83ca5f90e0c905044c195edd">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.chrisbanes.photoview-library-1.2.4_71fa072aec1e6cf53992256a6b910839bc036a31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_0d11d7496f4e21b06242ec3a1c2d159202be89a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.1_7f1fb5592e649b25140aca5237ed733ca76fc746\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bef3bfae3876952fb6888112b30fc000a94261fb">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8875c91a7ecec6ea5e9526bbaf58186a7cf2cee4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.google.android.exoplayer\exoplayer\r1.5.11\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a919fdfb7808ff27b33e6e84ec990478abc9cf1">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.exoplayer-exoplayer-r1.5.11_3f620fc22d1d0f4635f37102fd7601b2133c9fd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\libs\ShareSDK-Wechat-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="66b199a46f01c4470c13c70120e4312a4b84d368">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-3.1.0_6fc48e8be58a808c9941c7ec9b64ba64d2947cf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.github.d-max\spots-dialog\0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f82b3f786bf4937ed1a1cc9a9a811e154813ba9a">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.d-max-spots-dialog-0.4_dee84e1884dd11eb17cce026ba37746e55ab93da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.3.1_31952e2a5344f9e0ee675b503c0d328bc590c0a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.joooonho\selectableroundedimageview\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b915694304bc4a4003b7e7b65577b4f0b514b06">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.joooonho-selectableroundedimageview-1.0.1_7df381de3f7caf0b02d3833327a589b499ee863e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.miguelcatalan\materialsearchview\1.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="918e3e9514d90e54421b674cf0c95044f4e155ad">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.miguelcatalan-materialsearchview-1.4.0_e8a2178ec93f7a8941a0ced86ec3db504f83ff21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.yanzhenjie.nohttp\nohttp\1.1.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="395823b8053b588e1c150b298ed09b6a6cb0c205">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.yanzhenjie.nohttp-nohttp-1.1.4_13ff3aa7e4f3ae3b9ffccbfda5d2bc0989d3ffd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.shuyu\gsyVideoPlayer-armv5\2.0.8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="798bae4850d66dc4f82a2782f1c91991e9dc0c39">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.shuyu-gsyVideoPlayer-armv5-2.0.8_ff0cd49344ad529dfe95b8803a7a4675145abed6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_747e84b74ec3edaf65267355884b2919de9017f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_06ad783c9a6f92fc9e1e9b827ce6673e0beacd1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.shuyu\gsyVideoPlayer-java\2.0.8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="534d64540059ec30608a1d8fa4d56f369886802c">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.shuyu-gsyVideoPlayer-java-2.0.8_17b3bbc4d29b0e2d6a6dc604e0403bcb26026563\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\pinyin4j-2.5.0_c7f06543c0b7fa378b18dbb04cde2c0d75e09468\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.lzy.widget\imagepicker\0.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21cf30446f87b05d7a3afc52e3d1c6fea3788d35">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.lzy.widget-imagepicker-0.6.1_498ac6238447d3c548473dd5021047239cd4c4e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\co.lujun\androidtagview\1.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e69d1560e8b161be8d2b11c421e26b297253d0b7">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\co.lujun-androidtagview-1.0.3_8b6baad6c9e60f29977a709d386272de4556dd77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.lcodecorex\tkrefreshlayout\1.0.7\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c32ab2e2421b179912b718196eee2277ba1c7c9">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.lcodecorex-tkrefreshlayout-1.0.7_86364f8ea1298ad244802f5d41210f1e928a71e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\libs\ShareSDK-Wechat-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="66b199a46f01c4470c13c70120e4312a4b84d368">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-3.1.0_09ddbedf26d3a65c025a395ce283ee182f8f7e6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_3f466d9e783e812026eae4a8dfad1b1732e4021d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.gyf.barlibrary\barlibrary\2.2.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc5ce0db37aadbd87144a2955a2b46801a7512d1">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.gyf.barlibrary-barlibrary-2.2.2_d116e2a616fa8f199d7d5866ad53a2d7865926a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.lcodecorex\tkrefreshlayout\1.0.7\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c32ab2e2421b179912b718196eee2277ba1c7c9">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.lcodecorex-tkrefreshlayout-1.0.7_6331f4f97fc69d2f891e5cf95c0c15e8814eca09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\id.zelory\compressor\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b1555196d65ffa1174f6f49efb2f278905f537a">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\id.zelory-compressor-2.1.0_9dc03f6d707010f54042cc6f58c1c5a93b735ad3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_9620dc65db415992a4599a09ec1c5ddc7d711e1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_a12b5ee6fac174ca7387d461cdf295b6b0e3251d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_2b6bfdc9fcdbbc69e13e0301d0c7c29cff582eae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\libs\MobCommons-2017.0914.1125.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="572d1b40ee4bcf9366f22d7a1035bb30ef715f4f">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobCommons-2017.0914.1125_8fc0fa921c4eb01cc6c57afa0c148f5638494566\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.shuyu\gsyVideoPlayer-x64\2.0.8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f608e34c0dca5157b558742b18730e17d8e91f63">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.shuyu-gsyVideoPlayer-x64-2.0.8_4d2dec93151493ee9348bf06f6076c6bde256306\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.shuyu\gsyVideoPlayer-armv5\2.0.8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="798bae4850d66dc4f82a2782f1c91991e9dc0c39">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.shuyu-gsyVideoPlayer-armv5-2.0.8_4f63ebac944a27a3a4221e8f5ed269820865704d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_626997bc7fa24f7ea6627dd0be3d805a2f69254b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\libs\ShareSDK-QQ-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="311a96b0128087bbb7c19b6165ef87a3980ccbf1">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QQ-3.1.0_1791c4d6412067ebb4c98e2bcc2831d86fbabd3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_4ae1ba7923c1d444b491c32df10121d132c124c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_c70c6223939a630e03262c7a63eacdf8ab689c41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.shuyu\gsyVideoPlayer-x64\2.0.8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f608e34c0dca5157b558742b18730e17d8e91f63">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.shuyu-gsyVideoPlayer-x64-2.0.8_f5dc3d82496358969115fe65d3b2403cf414342e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.tencent.bugly\crashreport\2.6.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="56b24cbd303368a3dc7a0cf1efbeb4f59b9ad742">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.tencent.bugly-crashreport-2.6.6.1_cad6ad58035cb920eac7b00ecb5a8a49f9ae5236\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.jcodecraeer\xrecyclerview\1.5.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="480ff7cc5afc5ed3acda6bf661e07822ffcc98db">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jcodecraeer-xrecyclerview-1.5.2_15ab2d94379237b391275ce145f5bc8e629ed725\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.danikula\videocache\2.7.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bcb716303abee870dbb06af2d141c8ea6c280db4">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.danikula-videocache-2.7.0_04d8fb2f209c5ee4262cd9998cd576c2bf293b3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_61c4fa27913953c70d3e7b93112ebef2a442f2c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.flyco.dialog\FlycoDialog_Lib\1.3.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df48f74b021b90bfdd5b5ca21935cf9453c282f0">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.flyco.dialog-FlycoDialog_Lib-1.3.2_d6ca0cde0652403522da39dce4b5fc13d569e677\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hh\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_c4101112c88ac81cbf7a05eeb5ef2471bb52cafd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.google.android.exoplayer\exoplayer\r1.5.11\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a919fdfb7808ff27b33e6e84ec990478abc9cf1">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.exoplayer-exoplayer-r1.5.11_a493bb4f89962961f5e8b65ec002fdeffa11a19c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_355acd726b3b52741328353876a69ff79697e1ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\libs\ShareSDK-Email-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69a5b2ca3bd82ace0c868e725b8ae1a90fbc5072">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Email-3.1.0_2d1f77651da4cbb786490dcc984769b1ad2fcc64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.danikula\videocache\2.7.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bcb716303abee870dbb06af2d141c8ea6c280db4">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.danikula-videocache-2.7.0_8364e7f86a7dd04c90013d33aa077ec3093377a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.jaeger.ninegridimageview\library\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="141bce66de90e45d1ab795b8652dd2681afadd5b">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jaeger.ninegridimageview-library-1.0.2_68fb9c23fe91f85353fd53f1be8f652600878ad7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hh\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_ee6bda046e287a929d669b8765405184f0c2e6f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\libs\ShareSDK-QQ-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="311a96b0128087bbb7c19b6165ef87a3980ccbf1">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QQ-3.1.0_0aff0acebcb6b4a28b24ebb0bc0e997cbccf69dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.daimajia.numberprogressbar\library\1.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e82910dd72a1f446acb523c10abbb2ba330e9c9f">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.numberprogressbar-library-1.4_b1eba340325136ddb91f4e53e408f7d8cae7f1e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.github.d-max\spots-dialog\0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f82b3f786bf4937ed1a1cc9a9a811e154813ba9a">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.d-max-spots-dialog-0.4_d4ba9637e9c57217db2f21c37da389402c34b9d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\libs\ShareSDK-SinaWeibo-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5acedc0aeb693441d031a05aff1ffdfb93b97631">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-SinaWeibo-3.1.0_f7ca8cf93d15d74efbb801fd6c7d76fe6beceb32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\pinyin4j-2.5.0_f6ae5137b66f95ea0fb4f95addd70f6e8f77b31c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\libs\ShareSDK-Wechat-Moments-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dece32686922fe8132cd1f7adc34893900939bd9">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Moments-3.1.0_4cc0e52d1d7c62b5c4b506c1ad20af79ad24c2b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hh\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.1.0\2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1\rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-2.1.0_b081dbf145a09a2cd6588954144f0d4057114ae0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_9c86a3c0ed403b4d843a777fb016e5adb6c2570e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_a1f638999d9a8772517123b883db9390c81ed615\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_9561e70fc544595608a652337393e237da7fa6da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_3773a2c594f7f0b309c80ea97f506990c279b9c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.joooonho\selectableroundedimageview\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b915694304bc4a4003b7e7b65577b4f0b514b06">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.joooonho-selectableroundedimageview-1.0.1_6942faaa4d44dba41615a136811ef519012b7ea5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\tv.danmaku.ijk.media\ijkplayer-exo\0.8.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12c02fc2923d85b10f23d5572aef626d91e320fe">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\tv.danmaku.ijk.media-ijkplayer-exo-0.8.3_a4cecd82028fefe04c7cc4cc6ba339bf77f6529b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hh\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.21\139535a69a4239db087de9bab0bee568bf8e0b70\slf4j-api-1.7.21.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="139535a69a4239db087de9bab0bee568bf8e0b70">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\slf4j-api-1.7.21_af231b7da41fca874c79f09a40429e0a05d542b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hh\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_9338b28d02f15761fe875a36ef1867d4397c31e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\tv.danmaku.ijk.media\ijkplayer-java\0.8.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69253a57e2371f2889f0528f854efeb88c0978e7">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\tv.danmaku.ijk.media-ijkplayer-java-0.8.3_b5561e98a88582204201425749744b5592109d02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.ashokvarma.android\bottom-navigation-bar\1.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2ef3c729a69412c9c63aa9b7c3120c501ed471c">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.ashokvarma.android-bottom-navigation-bar-1.3.1_c934291505b482254f497af61eb81c59adf40e9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_2acbea2fa72016a972847e2affbf68ef24881cb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_e34c0202c9613b6f8b48c3fd25c9bbbfbe8900c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de93e28c16a16a089ca42957e54250be5fc4bf5f">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e44800130f2105a338ac61ba5d452065820401c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.shuyu\gsyVideoPlayer-armv7a\2.0.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f4bf876b33bb1141754aef396f0a616333d58cf8">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.shuyu-gsyVideoPlayer-armv7a-2.0.9_144fc8a5580a3758389542fd6ade8ab746b2dae3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\libs\ShareSDK-SinaWeibo-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5acedc0aeb693441d031a05aff1ffdfb93b97631">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-SinaWeibo-3.1.0_c34fd35b59bfc650de957272997cc573d865dcb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.shuyu\GSYVideoPlayer\2.0.8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="254f10f064e2a593f475227f5f6d7aa79b24a71b">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.shuyu-GSYVideoPlayer-2.0.8_be2c3725433b28f6c6ca06310b9355a7939ed960\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\libs\ShareSDK-Wechat-Core-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3fb3435f069578f09b2bb22dd1aad305f55f74d0">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Core-3.1.0_a046babd5c1468258101044ab4641c0bd8627fd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.1_ef26a4fbe0d32a75f826ec6b0c8f69e6419f2de6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hh\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-android\1.7.21\f4f6a07c00f3996d8db58c85a3d73377b40611eb\slf4j-android-1.7.21.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f4f6a07c00f3996d8db58c85a3d73377b40611eb">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\slf4j-android-1.7.21_85581211dcb33b627903d7489570f2b2a0b8541a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.3.1_a5f1e75828dc52cd2353554e80aacc614d2a928d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.github.MagicMashRoom\SuperCalendar\v1.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fb0d21c52d7fbcd0278a3c7f49c89f93ac303bb0">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.MagicMashRoom-SuperCalendar-v1.4_19e5e6d8bc094a3afb31054a3c5c14f1936d06df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hh\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_6ca13cefeaf4f7eb1211529693765586c274fb25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.gyf.barlibrary\barlibrary\2.2.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc5ce0db37aadbd87144a2955a2b46801a7512d1">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.gyf.barlibrary-barlibrary-2.2.2_0248609e612fa82cfe9ff8339cae8a1a118b0b77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hh\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\reactive-streams-1.0.0_48c0b965f95698415ebdf4a0856fca564d6cb4c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.davemorrissey.labs\subsampling-scale-image-view\3.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae3fb5e70b67cf542338288b0d68c6c367da7367">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.davemorrissey.labs-subsampling-scale-image-view-3.6.0_20eabe138644dd9d46432c421b8da18c3dcc9ecd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\tv.danmaku.ijk.media\ijkplayer-exo\0.8.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12c02fc2923d85b10f23d5572aef626d91e320fe">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\tv.danmaku.ijk.media-ijkplayer-exo-0.8.3_604ea012490bae10a8ecddedbe3883da44224d6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\co.lujun\androidtagview\1.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e69d1560e8b161be8d2b11c421e26b297253d0b7">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\co.lujun-androidtagview-1.0.3_b1a57e1004991ee38a9e312c94db8a5562b2a4ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_48d383fa067a19176e7e8444237e8f2017e72aeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.github.MagicMashRoom\SuperCalendar\v1.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fb0d21c52d7fbcd0278a3c7f49c89f93ac303bb0">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.MagicMashRoom-SuperCalendar-v1.4_53ece63783507710c406fc09da977343312f3b69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\libs\ShareSDK-Wechat-Favorite-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a21e1d0fe8cc137b07afb8a57015ec0de15ff365">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Favorite-3.1.0_005c40973f3681dd55b1f88653eead564e73548f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.lzy.widget\imagepicker\0.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21cf30446f87b05d7a3afc52e3d1c6fea3788d35">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.lzy.widget-imagepicker-0.6.1_0ac70e66edc24e91e5caa286d0f2200e7b7c1941\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de283b05d37b1d93b82c58ca696d89970033f6c0">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5e4c3cbf8985b9e3b5f7e56e39f24ab9f85536bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.bigkoo\convenientbanner\2.0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b99798f653c15a17af6779bb9f01a66f2ee6e6ef">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.bigkoo-convenientbanner-2.0.5_7065bea4a285b1ad6f0a76aecc68579ebf3c1ae2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.3.1_ac87b80582a27b284a99ae10027df3ab069dfa35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\libs\MobTools-2017.0914.1125.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5255ef59c79430f7b8709cc19bf7a14efc1b5">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobTools-2017.0914.1125_b0e2e58993c8f0472070816876aae854d5abb97e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4127e8ac1a3a725a0931415458f5fdade1484e00">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5bfab7aa6f18d164344b7ff62212f79e140aaa24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\libs\ShareSDK-Wechat-Favorite-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a21e1d0fe8cc137b07afb8a57015ec0de15ff365">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Favorite-3.1.0_c40af0f81a719b779e0f5b65b6879e9ed0cabf81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.yanzhenjie.nohttp\nohttp\1.1.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="395823b8053b588e1c150b298ed09b6a6cb0c205">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.yanzhenjie.nohttp-nohttp-1.1.4_59893f287254139614f6294f8bf42c393e0a884c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_c43ae372ac945f99106d431f85cfd481879991d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.miguelcatalan\materialsearchview\1.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="918e3e9514d90e54421b674cf0c95044f4e155ad">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.miguelcatalan-materialsearchview-1.4.0_3c43d66bbb9e143f516f884210c8487772e5bf70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.daimajia.numberprogressbar\library\1.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e82910dd72a1f446acb523c10abbb2ba330e9c9f">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.numberprogressbar-library-1.4_95a8a23a5266eb49baa9cede693e640809dd28fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_8ea7219ef4917c1eeaa37fa28686554313ff176a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.shuyu\gsyVideoPlayer-arm64\2.0.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e70b1353fde0321dc95c72897a6b7a62f7c8ece">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.shuyu-gsyVideoPlayer-arm64-2.0.9_2f9555a144e77f649257ab42dbe04fa844a65b4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.shuyu\GSYVideoPlayer\2.0.8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="254f10f064e2a593f475227f5f6d7aa79b24a71b">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.shuyu-GSYVideoPlayer-2.0.8_249c7bb93b5dd33a0e2357f360684b68dae10259\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.flyco.dialog\FlycoDialog_Lib\1.3.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df48f74b021b90bfdd5b5ca21935cf9453c282f0">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.flyco.dialog-FlycoDialog_Lib-1.3.2_f12cdc4dfbbd636e739152117f5f2e02bfd43236\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\libs\MobCommons-2017.0914.1125.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="572d1b40ee4bcf9366f22d7a1035bb30ef715f4f">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobCommons-2017.0914.1125_901c2c564cf177cb4e3c2fdecead9c7451438961\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.shuyu\gsyVideoPlayer-x86\2.0.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3cfc25b617677ac2712d7555c3c3bedf451b6b9">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.shuyu-gsyVideoPlayer-x86-2.0.9_5142a74c70d940cfe6da6a542b0d64d2511c8ffa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.shuyu\gsyVideoPlayer-arm64\2.0.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e70b1353fde0321dc95c72897a6b7a62f7c8ece">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.shuyu-gsyVideoPlayer-arm64-2.0.9_975bc577f54547fa2111ba88f3fa6a66e31d929b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\libs\ShareSDK-Wechat-Moments-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dece32686922fe8132cd1f7adc34893900939bd9">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Moments-3.1.0_a0327f45c88d9db1a8beb8807cf9995f55f2b385\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.jcodecraeer\xrecyclerview\1.5.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="480ff7cc5afc5ed3acda6bf661e07822ffcc98db">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jcodecraeer-xrecyclerview-1.5.2_cde3ab9a1c3197d035bd8e3c9ee768dac6b44eb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\libs\ShareSDK-ShortMessage-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f9d71979758b0d3883c823ddf9a6c8a3ad4ddc6">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-ShortMessage-3.1.0_f45cc5175d6c279811f0fd6a8ab015aa0d71746b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\libs\ShareSDK-ShortMessage-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f9d71979758b0d3883c823ddf9a6c8a3ad4ddc6">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-ShortMessage-3.1.0_beecf5bb2ebb81cfbd40aa5a20a4142b0a9f396c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.davemorrissey.labs\subsampling-scale-image-view\3.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae3fb5e70b67cf542338288b0d68c6c367da7367">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.davemorrissey.labs-subsampling-scale-image-view-3.6.0_a0849e99186fb28b5e06496aa1c38ee967831e84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.andkulikov\transitionseverywhere\1.7.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24a746ed49aea913f5f009715c49e01a8d758e3f">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.andkulikov-transitionseverywhere-1.7.0_7e79c5ed89261558873b93dd0324dced15ba0640\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.3.1_72a39cfa256f813d1cbc9b6757e2da139b58cc8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.shuyu\gsyVideoPlayer-x86\2.0.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3cfc25b617677ac2712d7555c3c3bedf451b6b9">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.shuyu-gsyVideoPlayer-x86-2.0.9_4cb0d852b0d5b0154c93ead5136777fe521c50f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\libs\ShareSDK-Core-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7980e9584e54571b0fad9f259eeab995e90a2997">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Core-3.1.0_f7a224d67be7b78f88b84ea0457711a019ca41d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.shuyu\gsyVideoPlayer-armv7a\2.0.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f4bf876b33bb1141754aef396f0a616333d58cf8">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.shuyu-gsyVideoPlayer-armv7a-2.0.9_b29d2020772a410694a329af939e5350befa4ce5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\id.zelory\compressor\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b1555196d65ffa1174f6f49efb2f278905f537a">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\id.zelory-compressor-2.1.0_c0bfc4e3c0c94fc0d4ed91614b86681247c631b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\libs\ShareSDK-QZone-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dea402700998e6779f82356a565aed1dfc60d430">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QZone-3.1.0_cefd47d0a41576616314b9f955b48bba06233dff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.shuyu\gsyVideoPlayer-java\2.0.8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="534d64540059ec30608a1d8fa4d56f369886802c">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.shuyu-gsyVideoPlayer-java-2.0.8_7c08a9e75bfe67d0f18b537809d2671842a3e48d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\libs\ShareSDK-Core-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7980e9584e54571b0fad9f259eeab995e90a2997">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Core-3.1.0_6320498d1c59d466569e687e4a853951e6d63c71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.jzxiang.pickerview\TimePickerDialog\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="32c0bf3a62b3f92a29e778953d1929c378aab264">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jzxiang.pickerview-TimePickerDialog-1.0.1_1bdce1d1bf17804443fe38abaefe1f97240cbc10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\percent\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fc708e023161b0dd4d6fa6e7c3dee593c920b55">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-percent-25.3.1_882b2faaa098981c440a7abb3fd2f143caae273b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\percent\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fc708e023161b0dd4d6fa6e7c3dee593c920b55">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-percent-25.3.1_d10380245143469a74e4f209b2eaf8d816f4c808\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\tv.danmaku.ijk.media\ijkplayer-java\0.8.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69253a57e2371f2889f0528f854efeb88c0978e7">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\tv.danmaku.ijk.media-ijkplayer-java-0.8.3_d4a0c3b47df2640e4e07251a01a72c1cd9fad5e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.github.chrisbanes.photoview\library\1.2.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98b5309c8d368a7c83ca5f90e0c905044c195edd">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.chrisbanes.photoview-library-1.2.4_de4c673b30d783df53cd17e83f43f8d1122aa052\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\libs\ShareSDK-Email-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69a5b2ca3bd82ace0c868e725b8ae1a90fbc5072">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Email-3.1.0_9d32a3b19afa32c1cfb73f30f7b4fd613ff6aabc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.bigkoo\convenientbanner\2.0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b99798f653c15a17af6779bb9f01a66f2ee6e6ef">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.bigkoo-convenientbanner-2.0.5_3a94e5425926a8312478def69f6b1e022f8e7d01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.jzxiang.pickerview\TimePickerDialog\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="32c0bf3a62b3f92a29e778953d1929c378aab264">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jzxiang.pickerview-TimePickerDialog-1.0.1_c9237d15b00efa19254506658041dbf0c72e3dcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hh\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_e3229b6d058507054049fe7b0d9f37ac946b3f78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.tencent.bugly\crashreport\2.6.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="56b24cbd303368a3dc7a0cf1efbeb4f59b9ad742">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.tencent.bugly-crashreport-2.6.6.1_0aa559ef1835727dc8e5c1b7389967334236688a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.jaeger.ninegridimageview\library\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="141bce66de90e45d1ab795b8652dd2681afadd5b">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jaeger.ninegridimageview-library-1.0.2_449b512695c6ed6390997ce69a72e870fef12960\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hh\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_4646c841831f094d3460f32d1e24531cb1190d42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\exploded-aar\com.ashokvarma.android\bottom-navigation-bar\1.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2ef3c729a69412c9c63aa9b7c3120c501ed471c">
+        <dex dex="E:\newproject\ChengHunJiClient12_22\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.ashokvarma.android-bottom-navigation-bar-1.3.1_c11da600433ed4fe17755ccce2fb864b84650d16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.andkulikov\transitionseverywhere\1.7.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24a746ed49aea913f5f009715c49e01a8d758e3f">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.andkulikov-transitionseverywhere-1.7.0_72080e09eacd6643e3f57e4fa04ed5acccae0006\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\libs\MobTools-2017.0914.1125.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5255ef59c79430f7b8709cc19bf7a14efc1b5">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobTools-2017.0914.1125_f2bdc94081efca0e787b62ce931edbb5691eeaca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVNProject\ChengHunJiClient\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\SVNProject\ChengHunJiClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.1_4dc5f5e3a6d34fe1e2f49fa7b2ea12e8405de21a\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bottom_layout"
+    android:paddingStart="16dp"
+    android:paddingEnd="16dp"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white">
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_marginTop="6dp"
+            android:id="@+id/title"
+            android:lineSpacingExtra="3dp"
+            android:lines="2"
+            android:ellipsize="end"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="@color/black_deep"
+            android:textStyle="bold"
+            android:text="标题"/>
+        <TextView
+            android:id="@+id/content"
+            android:layout_marginTop="10dp"
+            android:lineSpacingExtra="2dp"
+            android:maxLines="2"
+            android:ellipsize="end"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="13sp"
+            android:textColor="@color/black_light_two"
+            android:text="内容"/>
+    </LinearLayout>
+
+    <com.joooonho.SelectableRoundedImageView
+        android:layout_marginStart="10dp"
+        android:id="@+id/img"
+        android:layout_width="130dp"
+        android:layout_height="100dp"
+        android:scaleType="centerCrop"
+        app:sriv_left_top_corner_radius="3dp"
+        app:sriv_right_top_corner_radius="3dp"
+        app:sriv_left_bottom_corner_radius="3dp"
+        app:sriv_right_bottom_corner_radius="3dp"
+        app:sriv_border_width="0dip"
+        app:sriv_border_color="#008fea"
+        app:sriv_oval="false"/>
+</LinearLayout>

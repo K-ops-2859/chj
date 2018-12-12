@@ -1,0 +1,139 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.3"
+    defaultConfig {
+        applicationId "com.dikai.chenghunjiclient"
+        minSdkVersion 17
+        targetSdkVersion 25
+        versionCode 89
+        versionName "4.6.2"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    dexOptions {
+        preDexLibraries true
+        javaMaxHeapSize "4g"
+        incremental true
+        dexInProcess = false
+    }
+    lintOptions {
+        abortOnError false
+        checkReleaseBuilds false
+        // 防止在发布的时候出现因MissingTranslation导致Build Failed!
+        disable 'MissingTranslation'
+    }
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+    aaptOptions.cruncherEnabled = false
+    aaptOptions.useNewCruncher = false
+
+    compileOptions {
+    }
+    packagingOptions {
+        exclude 'META-INF/rxjava.properties'
+        // ... and any other excludes go here
+    }
+}
+
+allprojects {
+    gradle.projectsEvaluated {
+        tasks.withType(JavaCompile) {
+            options.compilerArgs << "-Xlint:unchecked" << "-Xlint:deprecation"
+        }
+    }
+
+    repositories {
+        maven {
+            url "https://jitpack.io"
+        }
+        maven {
+            url "https://maven.google.com"
+        }
+        maven {
+            url 'https://dl.bintray.com/umsdk/release'//友盟库
+        }
+        jcenter()
+    }
+}
+
+task clean(type: Exec) {
+    ext.lockhunter = '\"C:\\Program Files\\LockHunter\\LockHunter.exe\"'
+    def buildDir = file(new File("build"))
+    commandLine 'cmd', "$lockhunter", '/delete', '/silent', buildDir
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    //    debugCompile 'com.squareup.leakcanary:leakcanary-android:1.5.2'
+
+    //    releaseCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.5.2'
+    //compile 'com.github.LuckSiege.PictureSelector:picture_library:v2.2.3'
+    compile 'com.android.support:multidex:1.0.1'
+    compile 'org.greenrobot:eventbus:3.0.0'
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.android.support:support-v4:25.3.1'
+    compile 'com.android.support:design:25.3.1'
+    compile 'com.android.support:cardview-v7:25.3.1'
+    compile 'com.android.support:percent:25.3.1'
+    compile 'com.tencent.bugly:crashreport:latest.release'
+    compile 'com.ashokvarma.android:bottom-navigation-bar:1.3.1'
+    compile 'com.google.code.gson:gson:2.7'
+    compile 'com.squareup.okhttp3:okhttp:3.10.0'
+    compile 'com.squareup.okio:okio:1.5.0'
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    compile 'de.hdodenhof:circleimageview:2.1.0'
+    compile 'com.joooonho:selectableroundedimageview:1.0.1'
+    compile 'com.lzy.widget:imagepicker:0.6.1'
+    compile 'com.flyco.dialog:FlycoDialog_Lib:1.3.2@aar'
+    compile 'com.github.d-max:spots-dialog:0.4@aar'
+    compile 'com.jzxiang.pickerview:TimePickerDialog:1.0.1'
+    compile 'com.gyf.barlibrary:barlibrary:2.2.2'
+    compile 'com.bigkoo:convenientbanner:2.0.5'
+    compile 'com.jaeger.ninegridimageview:library:1.0.2'
+    compile 'com.miguelcatalan:materialsearchview:1.4.0'
+    compile 'id.zelory:compressor:2.1.0'
+    compile 'com.lcodecorex:tkrefreshlayout:1.0.7'
+    compile 'com.github.MagicMashRoom:SuperCalendar:v1.4'
+    compile 'com.yanzhenjie.nohttp:nohttp:1.1.9'
+    compile 'com.shuyu:GSYVideoPlayer:4.1.0'
+    compile 'co.lujun:androidtagview:1.0.3'
+    compile 'com.hyman:flowlayout-lib:1.1.2'
+    compile 'com.daimajia.numberprogressbar:library:1.4@aar'
+    compile 'com.davemorrissey.labs:subsampling-scale-image-view:3.6.0'
+    compile 'com.jcodecraeer:xrecyclerview:1.5.2'
+    compile 'com.jakewharton.rxbinding:rxbinding-design:0.4.0'
+    compile 'cn.yipianfengye.android:zxing-library:1.9'
+    compile 'com.github.Awent:PhotoPick-Master:v1.095'
+    compile 'com.github.iwgang:countdownview:2.1.6'
+    compile 'com.zzhoujay.richtext:richtext:2.4.0'
+    compile 'com.zzhoujay:html:1.0.1'
+    compile 'q.rorbin:badgeview:1.1.3'
+    compile 'ch.ielse:switchbutton:1.0.1'
+    compile 'cn.bingoogolapple:bga-banner:2.2.4@aar'
+    compile 'com.scwang.smartrefresh:SmartRefreshLayout:1.0.4-4'
+    compile 'com.jude:easyrecyclerview:4.4.2'
+    compile 'com.github.Aspsine:SwipeToLoadLayout:1.0.3'
+    compile 'com.makeramen:roundedimageview:2.3.0'
+    compile 'com.github.pinguo-zhouwei:MZBannerView:v2.0.2'
+    compile 'com.borjabravo:readmoretextview:2.1.0'
+    compile 'com.amap.api:location:latest.integration'
+    compile 'com.ramotion.foldingcell:folding-cell:1.2.1'
+    compile 'com.umeng.umsdk:analytics:7.5.4'
+    compile 'com.umeng.umsdk:common:1.5.4'
+    testCompile 'junit:junit:4.12'
+}

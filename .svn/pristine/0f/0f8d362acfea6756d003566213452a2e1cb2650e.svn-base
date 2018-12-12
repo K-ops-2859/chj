@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.dikai.chenghunjiclient.view.MyImageView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:myImageView="http://schemas.android.com/apk/res-auto"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="10dp"
+    android:layout_marginLeft="30dp"
+    android:layout_marginRight="30dp"
+    android:id="@+id/item_fuli_img"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:scaleType="centerCrop"
+    android:src="@color/gray_background_1"
+    myImageView:aspect_ratio="1.6"/>

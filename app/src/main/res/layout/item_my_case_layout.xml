@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.dikai.chenghunjiclient.view.MyRelativeLayout
+    android:id="@+id/item_case_layout"
+    xmlns:myRelativeLayout="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    myRelativeLayout:relative_ratio="1.5"
+    android:layout_marginLeft="16dp"
+    android:layout_marginRight="16dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginBottom="8dp"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:myImageView="http://schemas.android.com/apk/res-auto">
+    <com.dikai.chenghunjiclient.view.MyImageView
+        android:id="@+id/item_case_img"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        myImageView:aspect_ratio="1.5"
+        android:scaleType="centerCrop"
+        android:src="@color/gray_background"/>
+    <TextView
+        android:id="@+id/item_case_text"
+        android:padding="10dp"
+        android:background="@drawable/case_shadow_bg"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:text="樱桃小丸子主题婚礼"/>
+</com.dikai.chenghunjiclient.view.MyRelativeLayout>

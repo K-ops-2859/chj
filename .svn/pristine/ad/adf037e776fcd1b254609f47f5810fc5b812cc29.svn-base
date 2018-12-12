@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/activity_create_team"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.dikai.chenghunjiclient.activity.me.CreateTeamActivity">
+
+    <View
+        android:id="@+id/top_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"/>
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        app:elevation="0dp"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:background="@color/white">
+
+            <ImageView
+                android:id="@+id/create_team_back"
+                android:layout_marginRight="20dp"
+                android:padding="10dp"
+                android:background="?android:attr/selectableItemBackground"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:scaleType="centerInside"
+                android:src="@mipmap/ic_app_gray_back"/>
+
+            <TextView
+                android:padding="5dp"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textColor="@color/main_text"
+                android:textSize="18sp"
+                android:gravity="center"
+                android:text="创建车队"/>
+            <TextView
+                android:id="@+id/create_team_finish"
+                android:clickable="true"
+                android:layout_width="60dp"
+                android:layout_height="match_parent"
+                android:textColor="@color/green"
+                android:textSize="14sp"
+                android:gravity="center"
+                android:text="完成"/>
+        </LinearLayout>
+    </android.support.design.widget.AppBarLayout>
+    <LinearLayout
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_gravity="top"
+            android:layout_marginTop="14dp"
+            android:layout_marginStart="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="logo"
+            android:textColor="@color/gray_text"
+            android:textSize="14sp"/>
+        <ImageView
+            android:id="@+id/create_team_logo"
+            android:layout_margin="14dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:scaleType="centerCrop"
+            android:src="@mipmap/ic_add_image_car"/>
+    </LinearLayout>
+    <View
+        android:layout_marginStart="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/gray_line" />
+    <LinearLayout
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_marginBottom="14dp"
+            android:layout_marginTop="14dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:text="地区"
+            android:textColor="@color/gray_text"
+            android:textSize="14sp" />
+
+        <TextView
+            android:clickable="true"
+            android:padding="10dp"
+            android:id="@+id/create_team_region"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:gravity="end"
+            android:text=""
+            android:textColor="@color/gray_text"
+            android:textSize="14sp" />
+        <ImageView
+            android:layout_marginRight="16dp"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@mipmap/ic_app_gray_goin"/>
+    </LinearLayout>
+    <View
+        android:layout_marginStart="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/gray_line" />
+    <LinearLayout
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_marginBottom="14dp"
+            android:layout_marginTop="14dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:text="地址"
+            android:textColor="@color/gray_text"
+            android:textSize="14sp" />
+
+        <EditText
+            android:padding="10dp"
+            android:id="@+id/create_team_address"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="6dp"
+            android:background="@null"
+            android:gravity="end"
+            android:hint="请输入常驻地址"
+            android:textColor="@color/gray_text"
+            android:textColorHint="@color/gray_text_1"
+            android:textSize="14sp" />
+    </LinearLayout>
+    <View
+        android:layout_marginStart="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/gray_line" />
+    <LinearLayout
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_marginBottom="14dp"
+            android:layout_marginTop="14dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:text="队名"
+            android:textColor="@color/gray_text"
+            android:textSize="14sp" />
+
+        <EditText
+            android:padding="10dp"
+            android:id="@+id/create_team_name"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="6dp"
+            android:background="@null"
+            android:gravity="end"
+            android:hint="请输入车队名"
+            android:textColor="@color/gray_text"
+            android:textColorHint="@color/gray_text_1"
+            android:textSize="14sp" />
+    </LinearLayout>
+    <View
+        android:layout_marginStart="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/gray_line" />
+    <LinearLayout
+        android:id="@+id/activity_create_name_layout"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_marginBottom="14dp"
+            android:layout_marginTop="14dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:text="简介"
+            android:textColor="@color/gray_text"
+            android:textSize="14sp" />
+
+        <EditText
+            android:padding="10dp"
+            android:id="@+id/create_team_intro"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="6dp"
+            android:background="@null"
+            android:gravity="end"
+            android:hint="请输入车队简介"
+            android:textColor="@color/gray_text"
+            android:textColorHint="@color/gray_text_1"
+            android:textSize="14sp" />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/gray_line" />
+
+</LinearLayout>
